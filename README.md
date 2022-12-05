@@ -2,6 +2,75 @@
 
 ![Promotional image](images/promotional.png)
 
+## Udemy
+
+...
+
+## ✨ This course is unlike any AWS Cloud Practitioner (CLF-C01) course you will find online.
+
+✋ Join a live online community and a course taught by industry experts and pass the AWS Cloud Practitioner (CLF-C01) confidently. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
+
+## ⌛️ Short and to the point; why should you take the course:
+
+1. Always happy to answer your questions on Udemy's Q&A's and outside :)
+2. Failed? Please submit a screenshot of your exam result and request a refund (via our upcoming platform, not possible on Udemy); we'll always accept it.
+3. Learn about topics, such as:
+   - Access Control;
+   - Authentication & Authorization;
+   - Availability Zones;
+   - Capital Expenditure (CapEx) & Operational Expenditure (OpEx);
+   - Cloud Concepts;
+   - Compliancy, Governance, Identity & Privacy;
+   - Inbound Data Traffic & Outbound Data Traffic;
+   - Infrastructure as a Service (laaS);
+   - Network Security Group (NSG);
+   - Platform as a Service (PaaS);
+   - Public & Private Cloud;
+   - Resource Groups;
+   - Serverless;
+   - Service Level Agreement (SLA);
+   - Software as a Service (SaaS);
+   - **Much More!**
+4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
+5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
+6. This course is **not** a AWS Cloud Practitioner (CLF-C01) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
+7. 595 **unique** questions.
+
+## ☝️ Course Updates
+
+**[v1.0.0](https://github.com/Ditectrev/AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers/releases/tag/v1.0.0): December 7, 2022.**
+
+- Launch of the course.
+
+## 🙋‍♀️ & 🙋‍♂️ Contribution
+
+We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](https://github.com/Ditectrev/AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers#table-of-contents), the wrong answer, please submit an [issue](https://github.com/Ditectrev/AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers/issues). Even better would be a [Pull Request (PR)](https://github.com/Ditectrev/AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers/pulls).
+
+## Who this course is for:
+
+- 👨‍🎓 Students preparing for the AWS Cloud Practitioner (CLF-C01) Exam;
+- 👨‍🎓 AWS Engineers;
+- 👨‍🎓 Azure Engineers;
+- 👨‍🎓 Cloud Architects;
+- 👨‍🎓 Cloud Engineers;
+- 👨‍🎓 DevOps Engineers;
+- 👨‍🎓 Enterprise Architects;
+- 👨‍🎓 GCP Engineers;
+- 👨‍🎓 Infrastructure Engineers;
+- 👨‍🎓 IT Professionals;
+- 👨‍🎓 Lead Engineers;
+- 👨‍🎓 Product Architects;
+- 👨‍🎓 Product Managers;
+- 👨‍🎓 Product Owners;
+- 👨‍🎓 Project Manager;
+- 👨‍🎓 Scrum Masters;
+- 👨‍🎓 Security Engineers;
+- 👨‍🎓 Site Reliability Engineers;
+- 👨‍🎓 Software Developers/Engineers;
+- 👨‍🎓 Software Testers;
+- 👨‍🎓 Solution Architects;
+- 👨‍🎓 Team Leaders.
+
 ## Requirements
 
 - 🤩 Excitement to learn!
