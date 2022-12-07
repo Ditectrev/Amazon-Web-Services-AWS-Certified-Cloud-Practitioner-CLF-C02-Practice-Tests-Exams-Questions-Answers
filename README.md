@@ -16,14 +16,27 @@
 2. Failed? Please submit a screenshot of your exam result and request a refund (via our upcoming platform, not possible on Udemy); we'll always accept it.
 3. Learn about topics, such as:
    - Access Control;
+   - Amazon Aurora;
+   - Amazon CloudFront;
+   - Amazon CloudWatch;
+   - Amazon Connect;
+   - Amazon DynamoDB;
+   - Amazon Elastic Compute Cloud (Amazon EC2);
+   - Amazon Inspector;
+   - Amazon Simple Storage Service (Amazon S3);
    - Authentication & Authorization;
    - Availability Zones;
+   - AWS Budgets;
+   - AWS Cost Explorer;
+   - AWS Health Dashboard;
+   - AWS Lambda;
+   - AWS Pricing Calculator;
+   - AWS Trusted Advisor;
    - Capital Expenditure (CapEx) & Operational Expenditure (OpEx);
    - Cloud Concepts;
    - Compliancy, Governance, Identity & Privacy;
    - Inbound Data Traffic & Outbound Data Traffic;
    - Infrastructure as a Service (laaS);
-   - Network Security Group (NSG);
    - Platform as a Service (PaaS);
    - Public & Private Cloud;
    - Resource Groups;
