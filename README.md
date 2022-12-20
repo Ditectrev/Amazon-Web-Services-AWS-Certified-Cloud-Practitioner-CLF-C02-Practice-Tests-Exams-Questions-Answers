@@ -998,7 +998,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### As part of the Enterprise support plan, who is the primary point of contact for ongoing support needs?
 
 - [ ] AWS Identity and Access Management (IAM) user.
-- [x] Infrastructure Event Management (IEM) engineer.
+- [ ] Infrastructure Event Management (IEM) engineer.
 - [ ] AWS Consulting Partners.
 - [x] Technical Account Manager (TAM).
 
