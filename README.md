@@ -1815,9 +1815,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### What is the AWS tool that enables you to use scripts to manage all AWS services and resources?
 
 - [ ] AWS Console.
-- [x] AWS Service Catalog.
+- [ ] AWS Service Catalog.
 - [ ] AWS OpsWorks.
-- [ ] AWS CLI.
+- [x] AWS CLI.
 
 **[⬆ Back to Top](#table-of-contents)**
 
