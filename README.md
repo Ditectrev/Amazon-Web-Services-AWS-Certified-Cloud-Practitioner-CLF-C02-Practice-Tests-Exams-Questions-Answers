@@ -1174,8 +1174,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### A company is concerned that they are spending money on underutilized compute resources in AWS. Which AWS feature will help ensure that their applications are automatically adding/removing EC2 compute capacity to closely match the required demand?
 
 - [ ] AWS Elastic Load Balancer.
-- [x] AWS Budgets.
-- [ ] AWS Auto Scaling.
+- [ ] AWS Budgets.
+- [x] AWS Auto Scaling.
 - [ ] AWS Cost Explorer.
 
 **[⬆ Back to Top](#table-of-contents)**
