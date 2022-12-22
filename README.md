@@ -207,7 +207,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 111   | [Using Amazon EC2 falls under which of the following cloud computing models?](#using-amazon-ec2-falls-under-which-of-the-following-cloud-computing-models) |
 | 112   | [Which of the below is a best-practice when building applications on AWS?](#which-of-the-below-is-a-best-practice-when-building-applications-on-aws) |
 | 113   | [Your company is designing a new application that will store and retrieve photos and videos. Which of the following services should you recommend as the underlying storage mechanism?](#your-company-is-designing-a-new-application-that-will-store-and-retrieve-photos-and-videos-which-of-the-following-services-should-you-recommend-as-the-underlying-storage-mechanism) |
-| 114   | [Amazon Glacier is an Amazon S3 storage class that is suitable for storing [...] & [...]. (Choose TWO)](#amazon-glacier-is-an-amazon-s3-storage-class-that-is-suitable-for-storing-[...]-&-[...]__-choose-two) |
+| 114   | [Amazon Glacier is an Amazon S3 storage class that is suitable for storing [...] & [...]. (Choose TWO)](#amazon-glacier-is-an-amazon-s3-storage-class-that-is-suitable-for-storing-%5B...%5D-&-%5B...%5D__-choose-two) |
 | 115   | [What does Amazon Elastic Beanstalk provide?](#what-does-amazon-elastic-beanstalk-provide) |
 | 116   | [What is the AWS service that performs automated network assessments of Amazon EC2 instances to check for vulnerabilities?](#what-is-the-aws-service-that-performs-automated-network-assessments-of-amazon-ec2-instances-to-check-for-vulnerabilities) |
 | 117   | [Under the Shared Responsibility Model, which of the following controls do customers fully inherit from AWS? (Choose TWO)](#under-the-shared-responsibility-model-which-of-the-following-controls-do-customers-fully-inherit-from-aws-choose-two) |
@@ -1735,7 +1735,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-#### Amazon Glacier is an Amazon S3 storage class that is suitable for storing [...] & [...]. (Choose TWO)
+### Amazon Glacier is an Amazon S3 storage class that is suitable for storing [...] & [...]. (Choose TWO)
 
 - [x] Active archives.
 - [ ] Dynamic websites’ assets.
