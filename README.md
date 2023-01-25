@@ -1,4 +1,4 @@
-# ⬆️ AWS Cloud Practitioner (CLF-C01) Exam Questions & Answers
+# ⬆️ AWS Cloud Practitioner (CLF-C01) Practice Tests Exams Questions & Answers
 
 ![Promotional image](images/promotional.png)
 
