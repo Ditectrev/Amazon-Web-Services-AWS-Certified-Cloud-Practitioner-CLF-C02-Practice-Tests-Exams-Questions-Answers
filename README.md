@@ -524,7 +524,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 424   | [Which AWS service is used to pay AWS bills, and monitor usage and budget costs?](#which-aws-service-is-used-to-pay-aws-bills-and-monitor-usage-and-budget-costs) |
 | 425   | [How do customers benefit from Amazon’s massive economies of scale?](#how-do-customers-benefit-from-amazons-massive-economies-of-scale) |
 | 426   | [Which AWS feature allows a company to take advantage of usage tiers for services across multiple member accounts?](#which-aws-feature-allows-a-company-to-take-advantage-of-usage-tiers-for-services-across-multiple-member-accounts) |
-| 427   | [Which AWS services provide a way to extend an on-premises architecture to the aws cloud?](#which-aws-services-provide-a-way-to-extend-an-on-premises-architecture-to-the-aws-cloud) |
+| 427   | [Which AWS services provide a way to extend an on-premises architecture to the aws cloud? (Select TWO)](#which-aws-services-provide-a-way-to-extend-an-on-premises-architecture-to-the-aws-cloud) |
 | 428   | [Which of the following services will automatically scale with an expected increase in web traffic?](#which-of-the-following-services-will-automatically-scale-with-an-expected-increase-in-web-traffic) |
 | 429   | [Which service provides a virtually unlimited amount of online highly durable object storage?](#which-service-provides-a-virtually-unlimited-amount-of-online-highly-durable-object-storage) |
 | 430   | [Which AWS feature should a customer leverage to achieve high availability of an application?](#which-aws-feature-should-a-customer-leverage-to-achieve-high-availability-of-an-application) |
@@ -734,7 +734,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which statement is true regarding the AWS Shared Responsibility Model?
 
 - [x] Responsibilities vary depending on the services used.
-- [ ] Security of the 1aaS services is the responsibility of AWS.
+- [ ] Security of the IaaS services is the responsibility of AWS.
 - [ ] Patching the guest OS is always the responsibility of AWS.
 - [ ] Security of the managed services is the responsibility of the customer.
 
@@ -865,7 +865,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] By automatically scaling your on-premises resources based on changes in demand.
 - [ ] By automatically scaling your AWS resources using an Elastic Load Balancer.
 - [ ] By reducing interdependencies between application components wherever possible.
-- [x] By automatically provisioning the required AWS resources based  on changes in demand.
+- [x] By automatically provisioning the required AWS resources based on changes in demand.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1363,7 +1363,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Free support for all enterprise customers.
 - [ ] Automatic data protection.
 - [x] Reduced Capital Expenditure (CapEx).
-- [ ] AWS holds responsibility for managing custome applications.
+- [ ] AWS holds responsibility for managing customer applications.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1809,7 +1809,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Replicate data across multiple Edge Locations worldwide and use Amazon CloudFront to perform automatic failover in the event of an outage.
 - [ ] Deploy AWS resources across multiple Availability Zones within the same AWS Region.
-- [ ] Create point-in-time backups in another subnet and recover this data when adisaster occurs.
+- [ ] Create point-in-time backups in another subnet and recover this data when a disaster occurs.
 - [x] Deploy AWS resources to another AWS Region and implement an Active-Active disaster recovery strategy.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -3812,7 +3812,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### How does AWS help customers achieve compliance in the cloud?
 
 - [ ] It's not possible to meet regulatory compliance requirements in the Cloud.
-- [ ] AWS applies the most commen Cloud security standards, and is responsible for complying with customers’ applicable laws and regulations.
+- [ ] AWS applies the most common Cloud security standards, and is responsible for complying with customers’ applicable laws and regulations.
 - [x] AWS has many common assurance certifications such as ISO 9001 and HIPAA.
 - [ ] Many AWS services are assessed regularly to comply with local laws and regulations.
 
@@ -4015,7 +4015,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which statement is true regarding AWS pricing? (Choose TWO)
 
-- [x] With the AWS pay-as-you-go pricing model, youdonothaveto pay any upfront fee.
+- [x] With the AWS pay-as-you-go pricing model, you don't have to pay any upfront fee.
 - [ ] You have no responsibility for third-party software license costs.
 - [x] You only pay for the individual services that you need with no long-term contracts.
 - [ ] For some services, you have to pay a startup fee in order to get the service running.
@@ -4071,7 +4071,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### What are the main differences between an IAM user and an IAM role in AWS? (Choose TWO)
 
-- [x] An IAM user is uniquely associated with only one person, however arole s intended to be assumable by anyone who needs it.
+- [x] An IAM user is uniquely associated with only one person, however a role is intended to be assumable by anyone who needs it.
 - [x] An IAM user has permanent credentials associated with it, however a role has temporary credentials associated with it.
 - [ ] IAM users are more cost effective than IAM roles.
 - [ ] Arole is uniquely associated with only one person, however an IAM user is intended to be assumable by anyone who needs it.
@@ -4092,7 +4092,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### What does Amazon GuardDuty do to protect AWS accounts and workloads?
 
 - [ ] Notifies AWS customers about abuse events once they are reported.
-- [x] Continuously menitors AWS infrastructure and helps detect e threats such as attacker reconnaissance or account compromise.
+- [x] Continuously monitors AWS infrastructure and helps detect threats such as attacker reconnaissance or account compromise.
 - [ ] Helps AWS customers identify the root cause of potential security issues.
 - [ ] Checks security groups for rules that allow unrestricted access to AWS. resources.
 
@@ -4259,7 +4259,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### The elasticity of the AWS Cloud enables customers to save costs when compared to traditional hosting providers. What can AWS customers do to benefit from the elasticity of the AWS Cloud? (Choose TWO)
 
 - [ ] Deploy your resources across multiple Availability Zones.
-- [x] Use Amazon EC2 Auto Sealing.
+- [x] Use Amazon EC2 Auto Scaling.
 - [ ] Deploy your resources in another region.
 - [ ] Use Elastic Load Balancing.
 - [x] Use Serverless Computing whenever possible.
@@ -4550,12 +4550,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which mechanism a Hows developers lo access AWS sendees from application code?
+### Which mechanism allows developers lo access AWS sendees from application code?
 
 - [x] AWS Software Development Kit.
 - [ ] AWS Management Console.
-- [ ] AWS CodePipelme.
-- [ ] AWS Conlig.
+- [ ] AWS CodePipeline.
+- [ ] AWS Config.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4642,7 +4642,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which AWS services provide a way to extend an on-premises architecture to the aws cloud?
+### Which AWS services provide a way to extend an on-premises architecture to the aws cloud? (Select TWO)
 
 - [ ] Amazon EBS.
 - [x] Amazon Connect.
@@ -4922,7 +4922,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### According to the AWS shared responsibility model who ts responsible for configuration management?
+### According to the AWS shared responsibility model who is responsible for configuration management?
 
 - [ ] It is solely the responsibility of the customer.
 - [ ] It is solely the responsibility of AWS.
@@ -4962,7 +4962,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### A customer is using multiple AWS accounts with separate billing. How can the customer take advantage of volume discounts with minimal impact to the AWS resources?
 
-- [ ] Create one global AWS acount and move all AWS resources to tha account.
+- [ ] Create one global AWS account and move all AWS resources to tha account.
 - [ ] Sign up for three years of Reserved Instance pricing up front.
 - [x] Use the consolidated billing feature from AWS Organizations.
 - [ ] Sign up for the AWS Enterprise support plan to get volume discounts.
@@ -5258,7 +5258,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### What time-savings advantage is offered with the use of Amazon Rekognition?
 
 - [ ] Amazon Rekognition provides automatic watermarking of images.
-- [x] Amazon Rekognition provides automatic detection of objects appeanng m pictures.
+- [x] Amazon Rekognition provides automatic detection of objects appearing in pictures.
 - [ ] Amazon Recognition provides the ability to resize millions of images automatically.
 - [ ] Amazon Rekognition uses Amazon Mechanical Turk to allow humans to bid on object detection jobs.
 
