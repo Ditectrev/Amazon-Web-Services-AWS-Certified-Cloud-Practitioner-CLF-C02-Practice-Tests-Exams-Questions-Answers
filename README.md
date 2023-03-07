@@ -59,7 +59,7 @@
 
 - Fix several questions with minor improvements.
 
-**[v1.1.1](https://github.com/Ditectrev/AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers/releases/tag/v1.1.0): March 7, 2023.**
+**[v1.1.1](https://github.com/Ditectrev/AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers/releases/tag/v1.1.1): March 7, 2023.**
 
 - Fix several typos.
 
