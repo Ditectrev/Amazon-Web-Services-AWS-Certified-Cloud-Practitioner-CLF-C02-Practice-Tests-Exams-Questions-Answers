@@ -1757,8 +1757,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### What does Amazon Elastic Beanstalk provide?
 
-- [ ] A PaaS solution to automate application deployment.
-- [x] A compute engine for Amazon ECS.
+- [x] A PaaS solution to automate application deployment.
+- [ ] A compute engine for Amazon ECS.
 - [ ] A scalable file storage solution for use with AWS and on-premises servers.
 - [ ] A NoSQL database service.
 
