@@ -753,7 +753,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### You have set up consolidated billing for several AWS accounts. One of the accounts has purchased a number of reserved instances for 3 years. Which of the following is true regarding this scenario?
 
 - [ ] The Reserved Instance discounts can only be shared with the master account.
-- [x] All accounts can receive the hourly cost benefit of the Reserved Instances (Comect).
+- [x] All accounts can receive the hourly cost benefit of the Reserved Instances.
 - [ ] The purchased instances will have better performance than On-demand instances.
 - [ ] There are no cost benefits from using consolidated billing; It is for informational purposes only.
 
@@ -763,7 +763,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Deploy the application across multiple Availability Zones and Edge locations.
 - [ ] Deploy the application across multiple Availability Zones and subnets.
-- [x] Deploy the application across multiple Regions and Availability Zones (Co ).
+- [x] Deploy the application across multiple Regions and Availability Zones.
 - [ ] Deploy the application across multiple VPC’s and subnets.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -910,7 +910,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which of the following does NOT belong to the AWS Cloud Computing models?
 
 - [ ] Platform as a Service (PaaS).
-- [ ] Infrastructure as a Service (1aaS).
+- [ ] Infrastructure as a Service (IaaS).
 - [ ] Software as a Service (SaaS).
 - [x] Networking as a Service (NaaS).
 
@@ -1923,7 +1923,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] By creating an AWS Config template from the old instance and launching a new instance from it.
 - [ ] By creating an EBS Snapshot of the old instance.
 - [ ] By installing Aurora on EC2 and launching a new instance from it.
-- [x] By creating an AMI from the old instance and (Correct) launching a new instance from it.
+- [x] By creating an AMI from the old instance and launching a new instance from it.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2441,10 +2441,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Why do many startup companies prefer AWS over traditional on-premises solutions? (Choose TWO)
 
 - [ ] AWS allows them to pay later when their business succeed.
-- [x] AWS can build complete data centers faster than any other Cloud provider.
-- [ ] Using AWS, they can reduce time-to-market by focusing on business activities rather than on building and managing data centers.
+- [ ] AWS can build complete data centers faster than any other Cloud provider.
+- [x] Using AWS, they can reduce time-to-market by focusing on business activities rather than on building and managing data centers.
 - [ ] AWS removes the need to invest in operational expenditure.
-- [ ] Using AWS allows companies to replace large capital expenditure with low variable costs.
+- [x] Using AWS allows companies to replace large capital expenditure with low variable costs.
 
 **[⬆ Back to Top](#table-of-contents)**
 
