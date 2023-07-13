@@ -2485,7 +2485,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### AWS recommends some practices to help organizations avoid unexpected charges on their bill. Which of the following is NOT one of these practices?
 
 - [ ] Deleting unused EBS volumes after terminating an EC2instance.
-- [x] Deleting unused AutoScaling launch (Correct) configuration.
+- [x] Deleting unused AutoScaling launch configuration.
 - [ ] Deleting unused Elastic Load Balancers.
 - [ ] Releasing unused Elastic IPs after terminating an EC2instance.
 
@@ -2680,7 +2680,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Restrict any API call made through SDKs or CLI.
 - [ ] Create one IAM account for each department in the company (Development, QA, Production), and share it across all staff in that department.
-- [x] Require Multi-Factor Authentication (MFA) (Correct) for all IAM User access.
+- [x] Require Multi-Factor Authentication (MFA) for all IAM User access.
 - [ ] Set up two login passwords.
 
 **[⬆ Back to Top](#table-of-contents)**
