@@ -12,6 +12,8 @@
 
 ✋ Join a live online community and a course taught by industry experts and pass the AWS Cloud Practitioner (CLF-C01) confidently. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
 
+[![Join our Discord](images/discord.png 'Join our Discord')](https://discord.gg/RFjtXKfJy3)
+
 ## ⌛️ Short and to the point; why should you take the course:
 
 1. Always happy to answer your questions on Udemy's Q&A's and outside :)
