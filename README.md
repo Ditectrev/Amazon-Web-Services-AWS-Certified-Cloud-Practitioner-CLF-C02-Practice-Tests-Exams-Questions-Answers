@@ -8,9 +8,9 @@
 
 🛍️ Alternatively, you can buy the PDF with those questions on [Etsy](https://www.etsy.com/listing/1363743302/aws-cloud-practitioner-clf-c01-practice).
 
-## ✨ This course is unlike any AWS Cloud Practitioner (CLF-C01) course you will find online.
+## ✨ This course is unlike any Amazon Web Services Certified (AWS Certified) Cloud Practitioner (CLF-C01) course you will find online.
 
-✋ Join a live online community and a course taught by industry experts and pass the AWS Cloud Practitioner (CLF-C01) confidently. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
+✋ Join a live online community and a course taught by industry experts and pass the Amazon Web Services Certified (AWS Certified) Cloud Practitioner (CLF-C01) confidently. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
 
 [![Join our Discord](images/discord.png 'Join our Discord')](https://discord.gg/RFjtXKfJy3)
 
@@ -50,7 +50,7 @@
    - **Much More!**
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
 5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
-6. This course is **not** a AWS Cloud Practitioner (CLF-C01) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
+6. This course is **not** a Amazon Web Services Certified (AWS Certified) Cloud Practitioner (CLF-C01) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
 7. 595 **unique** questions.
 
 ## ☝️ Course Updates
@@ -81,7 +81,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ## Who this course is for:
 
-- 👨‍🎓 Students preparing for the AWS Cloud Practitioner (CLF-C01) Exam;
+- 👨‍🎓 Students preparing for the Amazon Web Services Certified (AWS Certified) Cloud Practitioner (CLF-C01) Exam;
 - 👨‍🎓 AWS Engineers;
 - 👨‍🎓 Azure Engineers;
 - 👨‍🎓 Cloud Architects;
@@ -108,7 +108,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - 🤩 Excitement to learn!
 - 0️⃣ Prior knowledge is required;
-- ✅ You can pass the AWS Cloud Practitioner (CLF-C01) Exam solely based on our Practice Tests Exams.
+- ✅ You can pass the Amazon Web Services Certified (AWS Certified) Cloud Practitioner (CLF-C01) Exam solely based on our Practice Tests Exams.
 
 ## Table of Contents
 
