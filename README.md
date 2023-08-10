@@ -25,14 +25,18 @@
    - Amazon CloudWatch;
    - Amazon Connect;
    - Amazon DynamoDB;
+   - Amazon Elastic Block Store (Amazon EBS);
    - Amazon Elastic Compute Cloud (Amazon EC2);
+   - Amazon Elastic Map Reduce (Amazon EMR);
    - Amazon Inspector;
+   - Amazon Relational Database Service (Amazon RDS);
    - Amazon Simple Storage Service (Amazon S3);
    - Authentication & Authorization;
    - Availability Zones;
    - AWS Budgets;
    - AWS Cost Explorer;
    - AWS Health Dashboard;
+   - AWS Identity and Access Management (AWS IAM);
    - AWS Lambda;
    - AWS Pricing Calculator;
    - AWS Trusted Advisor;
@@ -47,6 +51,7 @@
    - Serverless;
    - Service Level Agreement (SLA);
    - Software as a Service (SaaS);
+   - Virtual Private Clouds (VPC);
    - **Much More!**
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
 5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
