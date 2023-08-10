@@ -40,7 +40,7 @@
    - Cloud Concepts;
    - Compliancy, Governance, Identity & Privacy;
    - Inbound Data Traffic & Outbound Data Traffic;
-   - Infrastructure as a Service (laaS);
+   - Infrastructure as a Service (IaaS);
    - Platform as a Service (PaaS);
    - Public & Private Cloud;
    - Resource Groups;
@@ -55,23 +55,23 @@
 
 ## ☝️ Course Updates
 
-**[v1.0.0](https://github.com/Ditectrev/AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers/releases/tag/v1.0.0): December 7, 2022.**
+**[v1.0.0](https://github.com/Ditectrev/Amazon-Web-Services-AWS-Certified-Cloud-Practitioner-CLF-C01-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.0.0): December 7, 2022.**
 
 - Launch of the course.
 
-**[v1.1.0](https://github.com/Ditectrev/AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers/releases/tag/v1.1.0): January 8, 2023.**
+**[v1.1.0](https://github.com/Ditectrev/Amazon-Web-Services-AWS-Certified-Cloud-Practitioner-CLF-C01-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.1.0): January 8, 2023.**
 
 - Fix several questions with minor improvements.
 
-**[v1.1.1](https://github.com/Ditectrev/AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers/releases/tag/v1.1.1): March 7, 2023.**
+**[v1.1.1](https://github.com/Ditectrev/Amazon-Web-Services-AWS-Certified-Cloud-Practitioner-CLF-C01-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.1.1): March 7, 2023.**
 
 - Fix several typos.
 
-**[v1.1.2](https://github.com/Ditectrev/AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers/releases/tag/v1.1.2): June 19, 2023.**
+**[v1.1.2](https://github.com/Ditectrev/Amazon-Web-Services-AWS-Certified-Cloud-Practitioner-CLF-C01-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.1.2): June 19, 2023.**
 
 - Fix 1 question correct answer.
 
-**[v1.1.3](https://github.com/Ditectrev/AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers/releases/tag/v1.1.3): July 13, 2023.**
+**[v1.1.3](https://github.com/Ditectrev/Amazon-Web-Services-AWS-Certified-Cloud-Practitioner-CLF-C01-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.1.3): July 13, 2023.**
 
 - Fix 1 question correct answer and several typos.
 
