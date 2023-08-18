@@ -2504,8 +2504,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### What is the AWS tool that can help a company visualize their AWS spending in the last few months?
 
-- [ ] AWS Cost Explorer.
-- [x] AWS Pricing Calculator.
+- [x] AWS Cost Explorer.
+- [ ] AWS Pricing Calculator.
 - [ ] AWS Budgets.
 - [ ] AWS Consolidated Billing.
 
