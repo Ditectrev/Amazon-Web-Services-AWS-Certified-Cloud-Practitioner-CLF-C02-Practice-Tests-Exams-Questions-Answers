@@ -141,7 +141,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 16   | [Which of the following helps a customer view the Amazon EC2 billing activity for the past month?](#which-of-the-following-helps-a-customer-view-the-amazon-ec2-billing-activity-for-the-past-month) |
 | 17   | [What do you gain from setting up consolidated billing for five different AWS accounts under another master account?](#what-do-you-gain-from-setting-up-consolidated-billing-for-five-different-aws-accounts-under-another-master-account) |
 | 18   | [What should you do in order to keep the data on EBS volumes safe? (Choose TWO)](#what-should-you-do-in-order-to-keep-the-data-on-ebs-volumes-safe-choose-two) |
-| 19   | [One of the most important AWS best-practices to follow is the cloud architecture principle of elasticity. How does this principle improve your architecture’s design?](#one-of-the-most-important-aws-best-practices-to-follow-is-the-cloud-architecture-principle-of-elasticity-how-does-this-principle-improve-your-architectures-design) |
+| 19   | [One of the most important AWS best-practices to follow is the cloud architecture principle of elasticity. How does this principle improve your architecture's design?](#one-of-the-most-important-aws-best-practices-to-follow-is-the-cloud-architecture-principle-of-elasticity-how-does-this-principle-improve-your-architectures-design) |
 | 20   | [A startup company is operating on limited funds and is extremely concerned about cost overruns. Which of the below options can be used to notify the company when their monthly AWS bill exceeds \$2000? (Choose TWO)](#a-startup-company-is-operating-on-limited-funds-and-is-extremely-concerned-about-cost-overruns-which-of-the-below-options-can-be-used-to-notify-the-company-when-their-monthly-aws-bill-exceeds-2000-choose-two) |
 | 21   | [What does Amazon CloudFront use to distribute content to global users with low latency?](#what-does-amazon-cloudfront-use-to-distribute-content-to-global-users-with-low-latency) |
 | 22   | [What does the "Principle of Least Privilege" refer to?](#what-does-the-principle-of-least-privilege-refer-to) |
@@ -149,7 +149,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 24   | [The identification process of an online financial services company requires that new users must complete an online interview with their security team. The completed recorded interviews are only required in the event of a legal issue or a regulatory compliance breach. What is the most cost-effective service to store the recorded videos?](#the-identification-process-of-an-online-financial-services-company-requires-that-new-users-must-complete-an-online-interview-with-their-security-team-the-completed-recorded-interviews-are-only-required-in-the-event-of-a-legal-issue-or-a-regulatory-compliance-breach-what-is-the-most-cost-effective-service-to-store-the-recorded-videos) |
 | 25   | [Which service provides DNS in the AWS cloud?](#which-service-provides-dns-in-the-aws-cloud) |
 | 26   | [Hundreds of thousands of DDoS attacks are recorded every month worldwide. What service does AWS provide to help protect AWS Customers from these attacks? (Choose TWO)](#hundreds-of-thousands-of-ddos-attacks-are-recorded-every-month-worldwide-what-service-does-aws-provide-to-help-protect-aws-customers-from-these-attacks-choose-two) |
-| 27   | [A company is deploying a new two-tier web application in AWS. Where should the most frequently accessed data be stored so that the application’s response time is optimal?](#a-company-is-deploying-a-new-two-tier-web-application-in-aws-where-should-the-most-frequently-accessed-data-be-stored-so-that-the-applications-response-time-is-optimal) |
+| 27   | [A company is deploying a new two-tier web application in AWS. Where should the most frequently accessed data be stored so that the application's response time is optimal?](#a-company-is-deploying-a-new-two-tier-web-application-in-aws-where-should-the-most-frequently-accessed-data-be-stored-so-that-the-applications-response-time-is-optimal) |
 | 28   | [You want to run a questionnaire application for only one day (without interruption), which Amazon EC2 purchase option should you use?](#you-want-to-run-a-questionnaire-application-for-only-one-day-without-interruption-which-amazon-ec2-purchase-option-should-you-use) |
 | 29   | [You are working on a project that involves creating thumbnails of millions of images. Consistent uptime is not an issue, and continuous processing is not required. Which EC2 buying option would be the most cost-effective?](#you-are-working-on-a-project-that-involves-creating-thumbnails-of-millions-of-images-consistent-uptime-is-not-an-issue-and-continuous-processing-is-not-required-which-ec2-buying-option-would-be-the-most-cost-effective) |
 | 30   | [Which of the following can be described as a global content delivery network (CDN) service?](#which-of-the-following-can-be-described-as-a-global-content-delivery-network-cdn-service) |
@@ -161,13 +161,13 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 36   | [Which of the following must an IAM user provide to interact with AWS services using the AWS Command Line Interface (AWS CLI)?](#which-of-the-following-must-an-iam-user-provide-to-interact-with-aws-services-using-the-aws-command-line-interface-aws-cli) |
 | 37   | [You have AWS Basic support, and you have discovered that some AWS resources are being used maliciously, and those resources could potentially compromise your data. What should you do?](#you-have-aws-basic-support-and-you-have-discovered-that-some-aws-resources-are-being-used-maliciously-and-those-resources-could-potentially-compromise-your-data-what-should-you-do) |
 | 38   | [Select TWO examples of the AWS shared controls.](#select-two-examples-of-the-aws-shared-controls)
-| 39   | [In order to implement best practices when dealing with a “Single Point of Failure,” you should attempt to build as much automation as possible in both detecting and reacting to failure. Which of the following AWS services would help? (Choose TWO)](#in-order-to-implement-best-practices-when-dealing-with-a-single-point-of-failure-you-should-attempt-to-build-as-much-automation-as-possible-in-both-detecting-and-reacting-to-failure-which-of-the-following-aws-services-would-help-choose-two) |
+| 39   | [In order to implement best practices when dealing with a 'Single Point of Failure,' you should attempt to build as much automation as possible in both detecting and reacting to failure. Which of the following AWS services would help? (Choose TWO)](#in-order-to-implement-best-practices-when-dealing-with-a-single-point-of-failure-you-should-attempt-to-build-as-much-automation-as-possible-in-both-detecting-and-reacting-to-failure-which-of-the-following-aws-services-would-help-choose-two) |
 | 40   | [A company is planning to host an educational website on AWS. Their video courses will be streamed all around the world. Which of the following AWS services will help achieve high transfer speeds?](#a-company-is-planning-to-host-an-educational-website-on-aws-their-video-courses-will-be-streamed-all-around-the-world-which-of-the-following-aws-services-will-help-achieve-high-transfer-speeds) |
 | 41   | [A developer is planning to build a two-tier web application that has a MySQL database layer. Which of the following AWS database services would provide automated backups for the application?](#a-developer-is-planning-to-build-a-two-tier-web-application-that-has-a-mysql-database-layer-which-of-the-following-aws-database-services-would-provide-automated-backups-for-the-application) |
 | 42   | [What is the AWS service that enables AWS architects to manage infrastructure as code?](#what-is-the-aws-service-that-enables-aws-architects-to-manage-infrastructure-as-code) |
 | 43   | [Under the shared responsibility model, which of the following is the responsibility of AWS?](#under-the-shared-responsibility-model-which-of-the-following-is-the-responsibility-of-aws) |
 | 44   | [What does the AWS Health Dashboard provide? (Choose TWO)](#what-does-the-aws-health-dashboard-provide-choose-two) |
-| 45   | [You have deployed your application on multiple Amazon EC2 instances. Your customers complain that sometimes they can’t reach your application. Which AWS service allows you to monitor the performance of your EC2 instances to assist in troubleshooting these issues?](#you-have-deployed-your-application-on-multiple-amazon-ec2-instances-your-customers-complain-that-sometimes-they-cant-reach-your-application-which-aws-service-allows-you-to-monitor-the-performance-of-your-ec2-instances-to-assist-in-troubleshooting-these-issues) |
+| 45   | [You have deployed your application on multiple Amazon EC2 instances. Your customers complain that sometimes they can't reach your application. Which AWS service allows you to monitor the performance of your EC2 instances to assist in troubleshooting these issues?](#you-have-deployed-your-application-on-multiple-amazon-ec2-instances-your-customers-complain-that-sometimes-they-cant-reach-your-application-which-aws-service-allows-you-to-monitor-the-performance-of-your-ec2-instances-to-assist-in-troubleshooting-these-issues) |
 | 46   | [Your company is developing a critical web application in AWS, and the security of the application is a top priority. Which of the following AWS services will provide infrastructure security optimization recommendations?](#your-company-is-developing-a-critical-web-application-in-aws-and-the-security-of-the-application-is-a-top-priority-which-of-the-following-aws-services-will-provide-infrastructure-security-optimization-recommendations) |
 | 47   | [Which of the following is not a benefit of Amazon S3? (Choose TWO)](#which-of-the-following-is-not-a-benefit-of-amazon-s3-choose-two) |
 | 48   | [In the AWS Shared responsibility Model, which of the following are the responsibility of the customer? (Choose TWO)](#in-the-aws-shared-responsibility-model-which-of-the-following-are-the-responsibility-of-the-customer-choose-two) |
@@ -186,7 +186,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 61   | [Which of the below is a best-practice when designing solutions on AWS?](#which-of-the-below-is-a-best-practice-when-designing-solutions-on-aws) |
 | 62   | [According to the AWS Acceptable Use Policy, which of the following statements is true regarding penetration testing of EC2 instances?](#according-to-the-aws-acceptable-use-policy-which-of-the-following-statements-is-true-regarding-penetration-testing-of-ec2-instances) |
 | 63   | [Which service is used to ensure that messages between software components are not lost if one or more components fail?](#which-service-is-used-to-ensure-that-messages-between-software-components-are-not-lost-if-one-or-more-components-fail) |
-| 64   | [The principle “design for failure and nothing will fail” is very important when designing your AWS Cloud architecture. Which of the following would help adhere to this principle? (Choose TWO)](#the-principle-design-for-failure-and-nothing-will-fail-is-very-important-when-designing-your-aws-cloud-architecture-which-of-the-following-would-help-adhere-to-this-principle-choose-two) |
+| 64   | [The principle 'design for failure and nothing will fail' is very important when designing your AWS Cloud architecture. Which of the following would help adhere to this principle? (Choose TWO)](#the-principle-design-for-failure-and-nothing-will-fail-is-very-important-when-designing-your-aws-cloud-architecture-which-of-the-following-would-help-adhere-to-this-principle-choose-two) |
 | 65   | [What is the AWS service that provides a virtual network dedicated to your AWS account?](#what-is-the-aws-service-that-provides-a-virtual-network-dedicated-to-your-aws-account) |
 | 66   | [According to the AWS Shared responsibility model, which of the following are the responsibility of the customer? (Choose TWO)](#according-to-the-aws-shared-responsibility-model-which-of-the-following-are-the-responsibility-of-the-customer-choose-two) |
 | 67   | [Which of the following AWS services can be used as a compute resource? (Choose TWO)](#which-of-the-following-aws-services-can-be-used-as-a-compute-resource-choose-two) |
@@ -215,7 +215,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 90   | [Which of the following procedures will help reduce your Amazon S3 costs?](#which-of-the-following-procedures-will-help-reduce-your-amazon-s3-costs) |
 | 91   | [What are the AWS services/features that can help you maintain a highly available and fault-tolerant architecture in AWS? (Choose TWO)](#what-are-the-aws-servicesfeatures-that-can-help-you-maintain-a-highly-available-and-fault-tolerant-architecture-in-aws-choose-two) |
 | 92   | [Which of the following activities may help reduce your AWS monthly costs?](#which-of-the-following-activities-may-help-reduce-your-aws-monthly-costs) |
-| 93   | [What is the AWS service/feature that takes advantage of Amazon CloudFront’s globally distributed edge locations to transfer files to S3 with higher upload speeds?](#what-is-the-aws-service-feature-that-takes-advantage-of-amazon-cloudfronts-globally-distributed-edge-locations-to-transfer-files-to-s3-with-higher-upload-speeds) |
+| 93   | [What is the AWS service/feature that takes advantage of Amazon CloudFront's globally distributed edge locations to transfer files to S3 with higher upload speeds?](#what-is-the-aws-service--feature-that-takes-advantage-of-amazon-cloudfronts-globally-distributed-edge-locations-to-transfer-files-to-s3-with-higher-upload-speeds) |
 | 94   | [Which of the following AWS security features is associated with an EC2 instance and functions to filter incoming traffic requests?](#which-of-the-following-aws-security-features-is-associated-with-an-ec2-instance-and-functions-to-filter-incoming-traffic-requests) |
 | 95   | [Which AWS services can be used to improve the performance of a global application and reduce latency for its users? (Choose TWO)](#which-aws-services-can-be-used-to-improve-the-performance-of-a-global-application-and-reduce-latency-for-its-users-choose-two) |
 | 96   | [Using Amazon RDS falls under the shared responsibility model. Which of the following are customer responsibilities? (Choose TWO)](#using-amazon-rds-falls-under-the-shared-responsibility-model-which-of-the-following-are-customer-responsibilities-choose-two) |
@@ -231,7 +231,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 106   | [A company is developing a new application using a microservices framework. The new application is having performance and latency issues. Which AWS Service should be used to troubleshoot these issues?](#a-company-is-developing-a-new-application-using-a-microservices-framework-the-new-application-is-having-performance-and-latency-issues-which-aws-service-should-be-used-to-troubleshoot-these-issues) |
 | 107   | [Which of the following AWS services is designed with native Multi-AZ fault tolerance in mind? (Choose TWO)](#which-of-the-following-aws-services-is-designed-with-native-multi-az-fault-tolerance-in-mind-choose-two) |
 | 108   | [What are the Amazon RDS features that can be used to improve the availability of your database? (Choose TWO)](#what-are-the-amazon-rds-features-that-can-be-used-to-improve-the-availability-of-your-database-choose-two) |
-| 109   | [Sarah has deployed an application in the Northern California (us-west-1) region. After examining the application’s traffic, she notices that about 30% of the traffic is coming from Asia. What can she do to reduce latency for the users in Asia?](#sarah-has-deployed-an-application-in-the-northern-california-us-west-1-region-after-examining-the-applications-traffic-she-notices-that-about-30-of-the-traffic-is-coming-from-asia-what-can-she-do-to-reduce-latency-for-the-users-in-asia) |
+| 109   | [Sarah has deployed an application in the Northern California (us-west-1) region. After examining the application's traffic, she notices that about 30% of the traffic is coming from Asia. What can she do to reduce latency for the users in Asia?](#sarah-has-deployed-an-application-in-the-northern-california-us-west-1-region-after-examining-the-applications-traffic-she-notices-that-about-30-of-the-traffic-is-coming-from-asia-what-can-she-do-to-reduce-latency-for-the-users-in-asia) |
 | 110   | [An organization runs many systems and uses many AWS products. Which of the following services enables them to control how each developer interacts with these products?](#an-organization-runs-many-systems-and-uses-many-aws-products-which-of-the-following-services-enables-them-to-control-how-each-developer-interacts-with-these-products) |
 | 111   | [Using Amazon EC2 falls under which of the following cloud computing models?](#using-amazon-ec2-falls-under-which-of-the-following-cloud-computing-models) |
 | 112   | [Which of the below is a best-practice when building applications on AWS?](#which-of-the-below-is-a-best-practice-when-building-applications-on-aws) |
@@ -241,7 +241,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 116   | [What is the AWS service that performs automated network assessments of Amazon EC2 instances to check for vulnerabilities?](#what-is-the-aws-service-that-performs-automated-network-assessments-of-amazon-ec2-instances-to-check-for-vulnerabilities) |
 | 117   | [Under the Shared Responsibility Model, which of the following controls do customers fully inherit from AWS? (Choose TWO)](#under-the-shared-responsibility-model-which-of-the-following-controls-do-customers-fully-inherit-from-aws-choose-two) |
 | 118   | [A company needs to host a database in Amazon RDS for at least three years. Which of the following options would be the most cost-effective solution?](#a-company-needs-to-host-a-database-in-amazon-rds-for-at-least-three-years-which-of-the-following-options-would-be-the-most-cost-effective-solution) |
-| 119   | [Your application has recently experienced significant global growth, and international users are complaining of high latency. What is the AWS characteristic that can help improve your international users’ experience?](#your-application-has-recently-experienced-significant-global-growth-and-international-users-are-complaining-of-high-latency-what-is-the-aws-characteristic-that-can-help-improve-your-international-users-experience) |
+| 119   | [Your application has recently experienced significant global growth, and international users are complaining of high latency. What is the AWS characteristic that can help improve your international users' experience?](#your-application-has-recently-experienced-significant-global-growth-and-international-users-are-complaining-of-high-latency-what-is-the-aws-characteristic-that-can-help-improve-your-international-users-experience) |
 | 120   | [Savings Plans are available for which of the following AWS compute services? (Choose TWO)](#savings-plans-are-available-for-which-of-the-following-aws-compute-services-choose-two) |
 | 121   | [A company has business critical workloads hosted on AWS and they are unwilling to accept any downtime. Which of the following is a recommended best practice to protect their workloads in the event of an unexpected natural disaster?](#a-company-has-business-critical-workloads-hosted-on-aws-and-they-are-unwilling-to-accept-any-downtime-which-of-the-following-is-a-recommended-best-practice-to-protect-their-workloads-in-the-event-of-an-unexpected-natural-disaster) |
 | 122   | [Which statement is correct with regards to AWS service limits? (Choose TWO)](#which-statement-is-correct-with-regards-to-aws-service-limits-choose-two) |
@@ -256,7 +256,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 131   | [Which of the following will impact the price paid for an EC2 instance? (Choose TWO)](#which-of-the-following-will-impact-the-price-paid-for-an-ec2-instance-choose-two) |
 | 132   | [A customer spent a lot of time configuring a newly deployed Amazon EC2 instance. After the workload increases, the customer decides to provision another EC2 instance with an identical configuration. How can the customer achieve this?](#a-customer-spent-a-lot-of-time-configuring-a-newly-deployed-amazon-ec2-instance-after-the-workload-increases-the-customer-decides-to-provision-another-ec2-instance-with-an-identical-configuration-how-can-the-customer-achieve-this) |
 | 133   | [A company uses AWS Organizations to manage all of its AWS accounts. Which of the following allows the company to restrict what services and actions are allowed in each individual account?](#a-company-uses-aws-organizations-to-manage-all-of-its-aws-accounts-which-of-the-following-allows-the-company-to-restrict-what-services-and-actions-are-allowed-in-each-individual-account) |
-| 134   | [Which of the following statements describes the AWS Cloud’s agility?](#which-of-the-following-statements-describes-the-aws-clouds-agility) |
+| 134   | [Which of the following statements describes the AWS Cloud's agility?](#which-of-the-following-statements-describes-the-aws-clouds-agility) |
 | 135   | [What are the benefits of using the Amazon Relational Database Service? (Choose TWO)](#what-are-the-benefits-of-using-the-amazon-relational-database-service-choose-two) |
 | 136   | [What is the connectivity option that uses Internet Protocol Security (IPSec) to establish encrypted connectivity between an on-premises network and the AWS Cloud?](#what-is-the-connectivity-option-that-uses-internet-protocol-security-ipsec-to-establish-encrypted-connectivity-between-an-on-premises-network-and-the-aws-cloud) |
 | 137   | [What is the minimum level of AWS support that provides 24x7 access to technical support engineers via phone and chat?](#what-is-the-minimum-level-of-aws-support-that-provides-24x7-access-to-technical-support-engineers-via-phone-and-chat) |
@@ -285,7 +285,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 160   | [A company needs to track resource changes using the API call history. Which AWS service can help the company achieve this goal?](#a-company-needs-to-track-resource-changes-using-the-api-call-history-which-aws-service-can-help-the-company-achieve-this-goal) |
 | 161   | [What are the benefits of using an AWS-managed service? (Choose TWO)](#what-are-the-benefits-of-using-an-aws-managed-service-choose-two) |
 | 162   | [Which of the following are use cases for Amazon S3? (Choose TWO)](#which-of-the-following-are-use-cases-for-amazon-s3-choose-two) |
-| 163   | [What is the AWS’ recommendation regarding access keys?](#what-is-the-aws-recommendation-regarding-access-keys) |
+| 163   | [What is the AWS' recommendation regarding access keys?](#what-is-the-aws-recommendation-regarding-access-keys) |
 | 164   | [What is the AWS IAM feature that provides an additional layer of security on top of user-name and password authentication?](#what-is-the-aws-iam-feature-that-provides-an-additional-layer-of-security-on-top-of-user-name-and-password-authentication) |
 | 165   | [What is the benefit of using an API to access AWS Services?](#what-is-the-benefit-of-using-an-api-to-access-aws-services) |
 | 166   | [A company is planning to migrate a database with high read/write activity to AWS. What is the best storage option to use?](#a-company-is-planning-to-migrate-a-database-with-high-readwrite-activity-to-aws-what-is-the-best-storage-option-to-use) |
@@ -306,7 +306,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 181   | [Which of the following AWS services can help you perform security analysis and regulatory compliance auditing? (Choose TWO)](#which-of-the-following-aws-services-can-help-you-perform-security-analysis-and-regulatory-compliance-auditing-choose-two) |
 | 182   | [Which of the following is NOT a characteristic of Amazon Elastic Compute Cloud (Amazon EC2)?](#which-of-the-following-is-not-a-characteristic-of-amazon-elastic-compute-cloud-amazon-ec2) |
 | 183   | [What is the AWS Compute service that executes code only when triggered by events?](#what-is-the-aws-compute-service-that-executes-code-only-when-triggered-by-events) |
-| 184   | [Both AWS and traditional IT distributors provide a wide range of virtual servers to meet their customers’ requirements. What is the name of these virtual servers in AWS?](#both-aws-and-traditional-it-distributors-provide-a-wide-range-of-virtual-servers-to-meet-their-customers-requirements-what-is-the-name-of-these-virtual-servers-in-aws) |
+| 184   | [Both AWS and traditional IT distributors provide a wide range of virtual servers to meet their customers' requirements. What is the name of these virtual servers in AWS?](#both-aws-and-traditional-it-distributors-provide-a-wide-range-of-virtual-servers-to-meet-their-customers-requirements-what-is-the-name-of-these-virtual-servers-in-aws) |
 | 185   | [What is the framework created by AWS Professional Services that helps organizations design a road map to successful cloud adoption?](#what-is-the-framework-created-by-aws-professional-services-that-helps-organizations-design-a-road-map-to-successful-cloud-adoption) |
 | 186   | [TYMO Cloud Corp is looking forward to migrating their entire on-premises data center to AWS. What tool can they use to perform a cost-benefit analysis of moving to the AWS Cloud?](#tymo-cloud-corp-is-looking-forward-to-migrating-their-entire-on-premises-data-center-to-aws-what-tool-can-they-use-to-perform-a-cost-benefit-analysis-of-moving-to-the-aws-cloud) |
 | 187   | [Which of the following activities supports the Operational Excellence pillar of the AWS Well-Architected Framework?](#which-of-the-following-activities-supports-the-operational-excellence-pillar-of-the-aws-well-architected-framework) |
@@ -341,14 +341,14 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 216   | [You are running a financial services web application on AWS. The application uses a MySQL database to store the data. Which of the following AWS services would improve the performance of your application by allowing you to retrieve information from fast in-memory caches?](#you-are-running-a-financial-services-web-application-on-aws-the-application-uses-a-mysql-database-to-store-the-data-which-of-the-following-aws-services-would-improve-the-performance-of-your-application-by-allowing-you-to-retrieve-information-from-fast-in-memory-caches) |
 | 217   | [What are the advantages of using Auto Scaling Groups for EC2 instances?](#what-are-the-advantages-of-using-auto-scaling-groups-for-ec2-instances) |
 | 218   | [The TCO gap between AWS infrastructure and traditional infrastructure has widened over the recent years. Which of the following could be the reason for that?](#the-tco-gap-between-aws-infrastructure-and-traditional-infrastructure-has-widened-over-the-recent-years-which-of-the-following-could-be-the-reason-for-that) |
-| 219   | [Which of the following are examples of the customer’s responsibility to implement “security IN the cloud”? (Choose TWO)](#which-of-the-following-are-examples-of-the-customers-responsibility-to-implement-security-in-the-cloud-choose-two) |
+| 219   | [Which of the following are examples of the customer's responsibility to implement 'security IN the cloud'? (Choose TWO)](#which-of-the-following-are-examples-of-the-customers-responsibility-to-implement-security-in-the-cloud-choose-two) |
 | 220   | [Which of the following is a type of MFA device that customers can use to protect their AWS resources?](#which-of-the-following-is-a-type-of-mfa-device-that-customers-can-use-to-protect-their-aws-resources) |
 | 221   | [A company is seeking to deploy an existing .NET application onto AWS as quickly as possible. Which AWS Service should the customer use to achieve this goal?](#a-company-is-seeking-to-deploy-an-existing-net-application-onto-aws-as-quickly-as-possible-which-aws-service-should-the-customer-use-to-achieve-this-goal) |
 | 222   | [Which of the following is NOT a factor when estimating the costs of Amazon EC2? (Choose TWO)](#which-of-the-following-is-not-a-factor-when-estimating-the-costs-of-amazon-ec2-choose-two) |
 | 223   | [Which AWS Service helps enterprises extend their on-premises storage to AWS in a cost-effective manner?](#which-aws-service-helps-enterprises-extend-their-on-premises-storage-to-aws-in-a-cost-effective-manner) |
 | 224   | [A company is building an online cloud storage platform. They need a storage service that can scale capacity automatically, while minimizing cost. Which AWS storage service should the company use to meet these requirements?](#a-company-is-building-an-online-cloud-storage-platform-they-need-a-storage-service-that-can-scale-capacity-automatically-while-minimizing-cost-which-aws-storage-service-should-the-company-use-to-meet-these-requirements) |
 | 225   | [You have just hired a skilled sys-admin to join your team. As usual, you have created a new IAM user for him to interact with AWS services. On his first day, you ask him to create snapshots of all existing Amazon EBS volumes and save them in a new Amazon S3 bucket. However, the new member reports back that he is unable to create neither EBS snapshots nor S3 buckets. What might prevent him from doing this simple task?](#you-have-just-hired-a-skilled-sys-admin-to-join-your-team-as-usual-you-have-created-a-new-iam-user-for-him-to-interact-with-aws-services-on-his-first-day-you-ask-him-to-create-snapshots-of-all-existing-amazon-ebs-volumes-and-save-them-in-a-new-amazon-s3-bucket-however-the-new-member-reports-back-that-he-is-unable-to-create-neither-ebs-snapshots-nor-s3-buckets-what-might-prevent-him-from-doing-this-simple-task) |
-| 226   | [An external auditor is requesting a log of all accesses to the AWS resources in the company’s account. Which of the following services will provide the auditor with the requested information?](#an-external-auditor-is-requesting-a-log-of-all-accesses-to-the-aws-resources-in-the-companys-account-which-of-the-following-services-will-provide-the-auditor-with-the-requested-information) |
+| 226   | [An external auditor is requesting a log of all accesses to the AWS resources in the company's account. Which of the following services will provide the auditor with the requested information?](#an-external-auditor-is-requesting-a-log-of-all-accesses-to-the-aws-resources-in-the-companys-account-which-of-the-following-services-will-provide-the-auditor-with-the-requested-information) |
 | 227   | [Which of the below options is true of Amazon Cloud Directory?](#which-of-the-below-options-is-true-of-amazon-cloud-directory) |
 | 228   | [A user has opened a "Production System Down" support case to get help from AWS Support after a production system disruption. What is the expected response time for this type of support case?](#a-user-has-opened-a-production-system-down-support-case-to-get-help-from-aws-support-after-a-production-system-disruption-what-is-the-expected-response-time-for-this-type-of-support-case) |
 | 229   | [Which of the below options is a best practice for making your application on AWS highly available?](#which-of-the-below-options-is-a-best-practice-for-making-your-application-on-aws-highly-available) |
@@ -359,7 +359,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 234   | [Which AWS Service provides integration with Chef to automate the configuration of EC2 instances?](#which-aws-service-provides-integration-with-chef-to-automate-the-configuration-of-ec2-instances) |
 | 235   | [A customer is seeking to store objects in their AWS environment and to make those objects downloadable over the internet. Which AWS Service can be used to accomplish this?](#a-customer-is-seeking-to-store-objects-in-their-aws-environment-and-to-make-those-objects-downloadable-over-the-internet-which-aws-service-can-be-used-to-accomplish-this) |
 | 236   | [Which of the following services can be used to monitor the HTTP and HTTPS requests that are forwarded to Amazon CloudFront?](#which-of-the-following-services-can-be-used-to-monitor-the-http-and-https-requests-that-are-forwarded-to-amazon-cloudfront) |
-| 237   | [A company is migrating a web application to AWS. The application’s compute capacity is continually utilized throughout the year. Which of the below options offers the company the most cost-effective solution?](#a-company-is-migrating-a-web-application-to-aws-the-applications-compute-capacity-is-continually-utilized-throughout-the-year-which-of-the-below-options-offers-the-company-the-most-cost-effective-solution) |
+| 237   | [A company is migrating a web application to AWS. The application's compute capacity is continually utilized throughout the year. Which of the below options offers the company the most cost-effective solution?](#a-company-is-migrating-a-web-application-to-aws-the-applications-compute-capacity-is-continually-utilized-throughout-the-year-which-of-the-below-options-offers-the-company-the-most-cost-effective-solution) |
 | 238   | [A company wants to grant a new employee long-term access to manage Amazon DynamoDB databases. Which of the following is a recommended best-practice when granting these permissions?](#a-company-wants-to-grant-a-new-employee-long-term-access-to-manage-amazon-dynamodb-databases-which-of-the-following-is-a-recommended-best-practice-when-granting-these-permissions) |
 | 239   | [When granting permissions to applications running on Amazon EC2 instances, which of the following is considered best practice?](#when-granting-permissions-to-applications-running-on-amazon-ec2-instances-which-of-the-following-is-considered-best-practice) |
 | 240   | [Which of the following will help AWS customers save on costs when migrating their workloads to AWS?](#which-of-the-following-will-help-aws-customers-save-on-costs-when-migrating-their-workloads-to-aws) |
@@ -367,7 +367,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 242   | [Which of the following can be used to enable the Virtual Multi-Factor Authentication? (Choose TWO)](#which-of-the-following-can-be-used-to-enable-the-virtual-multi-factor-authentication-choose-two) |
 | 243   | [According to best practices, which of the below options is best suited for processing a large number of binary files?](#according-to-best-practices-which-of-the-below-options-is-best-suited-for-processing-a-large-number-of-binary-files) |
 | 244   | [A company is planning to use Amazon S3 and Amazon CloudFront to distribute its video courses globally. What tool can the company use to estimate the costs of these services?](#a-company-is-planning-to-use-amazon-s3-and-amazon-cloudfront-to-distribute-its-video-courses-globally-what-tool-can-the-company-use-to-estimate-the-costs-of-these-services) |
-| 245   | [What should you do if you see resources, which you don’t remember creating, in the AWS Management Console? (Choose TWO)](#what-should-you-do-if-you-see-resources-which-you-dont-remember-creating-in-the-aws-management-console-choose-two) |
+| 245   | [What should you do if you see resources, which you don't remember creating, in the AWS Management Console? (Choose TWO)](#what-should-you-do-if-you-see-resources-which-you-dont-remember-creating-in-the-aws-management-console-choose-two) |
 | 246   | [A key practice when designing solutions on AWS is to minimize dependencies between components so that the failure of a single component does not impact other components. What is this practice called?](#a-key-practice-when-designing-solutions-on-aws-is-to-minimize-dependencies-between-components-so-that-the-failure-of-a-single-component-does-not-impact-other-components-what-is-this-practice-called) |
 | 247   | [Which AWS Service offers an NFS file system that can be mounted concurrently from multiple EC2 instances?](#which-aws-service-offers-an-nfs-file-system-that-can-be-mounted-concurrently-from-multiple-ec2-instances) |
 | 248   | [Availability Zones within a Region are connected over low-latency links. Which of the following is a benefit of these links?](#availability-zones-within-a-region-are-connected-over-low-latency-links-which-of-the-following-is-a-benefit-of-these-links) |
@@ -382,7 +382,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 257   | [Which AWS Service can perform health checks on Amazon EC2 instances?](#which-aws-service-can-perform-health-checks-on-amazon-ec2-instances) |
 | 258   | [A company is developing an application that will leverage facial recognition to automate photo tagging. Which AWS Service should the company use for facial recognition?](#a-company-is-developing-an-application-that-will-leverage-facial-recognition-to-automate-photo-tagging-which-aws-service-should-the-company-use-for-facial-recognition) |
 | 259   | [Which of the following are examples of AWS-managed databases? (Choose TWO)](#which-of-the-following-are-examples-of-aws-managed-databases-choose-two) |
-| 260   | [A company’s AWS workflow requires that it periodically perform large-scale image and video processing jobs. The customer is seeking to minimize cost and has stated that the amount of time it takes to process these jobs is not critical, but that cost minimization is the most important factor in designing the solution. Which EC2 instance class is best suited for this processing?](#a-companys-aws-workflow-requires-that-it-periodically-perform-large-scale-image-and-video-processing-jobs-the-customer-is-seeking-to-minimize-cost-and-has-stated-that-the-amount-of-time-it-takes-to-process-these-jobs-is-not-critical-but-that-cost-minimization-is-the-most-important-factor-in-designing-the-solution-which-ec2-instance-class-is-best-suited-for-this-processing) |
+| 260   | [A company's AWS workflow requires that it periodically perform large-scale image and video processing jobs. The customer is seeking to minimize cost and has stated that the amount of time it takes to process these jobs is not critical, but that cost minimization is the most important factor in designing the solution. Which EC2 instance class is best suited for this processing?](#a-companys-aws-workflow-requires-that-it-periodically-perform-large-scale-image-and-video-processing-jobs-the-customer-is-seeking-to-minimize-cost-and-has-stated-that-the-amount-of-time-it-takes-to-process-these-jobs-is-not-critical-but-that-cost-minimization-is-the-most-important-factor-in-designing-the-solution-which-ec2-instance-class-is-best-suited-for-this-processing) |
 | 261   | [There is a requirement to grant a DevOps team full administrative access to all resources in an AWS account. Who can grant them these permissions?](#there-is-a-requirement-to-grant-a-devops-team-full-administrative-access-to-all-resources-in-an-aws-account-who-can-grant-them-these-permissions) |
 | 262   | [You need to migrate a large number of on-premises workloads to AWS. Which AWS service is the most appropriate?](#you-need-to-migrate-a-large-number-of-on-premises-workloads-to-aws-which-aws-service-is-the-most-appropriate) |
 | 263   | [What are some key benefits of using AWS CloudFormation? (Choose TWO)](#what-are-some-key-benefits-of-using-aws-cloudformation-choose-two) |
@@ -400,7 +400,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 275   | [Which of the following has the greatest impact on cost? (Choose TWO)](#which-of-the-following-has-the-greatest-impact-on-cost-choose-two) |
 | 276   | [Who from the following will get the largest discount?](#who-from-the-following-will-get-the-largest-discount) |
 | 277   | [Which of the following is an available option when purchasing Amazon EC2 instances?](#which-of-the-following-is-an-available-option-when-purchasing-amazon-ec2-instances) |
-| 278   | [What does the term “Economies of scale” mean?](#what-does-the-term-economies-of-scale-mean) |
+| 278   | [What does the term 'Economies of scale' mean?](#what-does-the-term-economies-of-scale-mean) |
 | 279   | [A company experiences fluctuations in traffic patterns to their e-commerce website when running flash sales. What service can help the company dynamically match the required compute capacity to handle spikes in traffic during flash sales?](#a-company-experiences-fluctuations-in-traffic-patterns-to-their-e-commerce-website-when-running-flash-sales-what-service-can-help-the-company-dynamically-match-the-required-compute-capacity-to-handle-spikes-in-traffic-during-flash-sales) |
 | 280   | [Which of the below options is true of Amazon VPC?](#which-of-the-below-options-is-true-of-amazon-vpc) |
 | 281   | [Which tool can a non-AWS customer use to compare the cost of on-premises environment resources to AWS?](#which-tool-can-a-non-aws-customer-use-to-compare-the-cost-of-on-premises-environment-resources-to-aws) |
@@ -411,9 +411,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 286   | [What best describes penetration testing?](#what-best-describes-penetration-testing) |
 | 287   | [Which of the following are use cases for Amazon EMR? (Choose TWO)](#which-of-the-following-are-use-cases-for-amazon-emr-choose-two) |
 | 288   | [Your CTO has asked you to contact AWS support using the chat feature to ask for guidance related to EBS. However, when you open the AWS support center you can't see a way to contact support via Chat. What should you do?](#your-cto-has-asked-you-to-contact-aws-support-using-the-chat-feature-to-ask-for-guidance-related-to-ebs-however-when-you-open-the-aws-support-center-you-cant-see-a-way-to-contact-support-via-chat-what-should-you-do) |
-| 289   | [A developer wants to quickly deploy and manage his application in the AWS Cloud, but he doesn’t have any experience with cloud computing. Which of the following AWS services would help the developer achieve his goal?](#a-developer-wants-to-quickly-deploy-and-manage-his-application-in-the-aws-cloud-but-he-doesnt-have-any-experience-with-cloud-computing-which-of-the-following-aws-services-would-help-the-developer-achieve-his-goal) |
+| 289   | [A developer wants to quickly deploy and manage his application in the AWS Cloud, but he doesn't have any experience with cloud computing. Which of the following AWS services would help the developer achieve his goal?](#a-developer-wants-to-quickly-deploy-and-manage-his-application-in-the-aws-cloud-but-he-doesnt-have-any-experience-with-cloud-computing-which-of-the-following-aws-services-would-help-the-developer-achieve-his-goal) |
 | 290   | [Which statement best describes the AWS Pay-As-You-Go pricing model?](#which-statement-best-describes-the-aws-pay-as-you-go-pricing-model) |
-| 291   | [For Amazon RDS databases, what does AWS perform on your behalf? (Choose TWO) ](#for-amazon-rds-databases-what-does-aws-perform-on-your-behalf-choose-two) |
+| 291   | [For Amazon RDS databases, what does AWS perform on your behalf? (Choose TWO)](#for-amazon-rds-databases-what-does-aws-perform-on-your-behalf-choose-two) |
 | 292   | [Which of the following strategies help analyze costs in AWS?](#which-of-the-following-strategies-help-analyze-costs-in-aws) |
 | 293   | [A media company has an application that requires the transfer of large data sets to and from AWS every day. This data is business critical and should be transferred over a consistent connection. Which AWS service should the company use?](#a-media-company-has-an-application-that-requires-the-transfer-of-large-data-sets-to-and-from-aws-every-day-this-data-is-business-critical-and-should-be-transferred-over-a-consistent-connection-which-aws-service-should-the-company-use) |
 | 294   | [What is the main benefit of the AWS Storage Gateway service?](#what-is-the-main-benefit-of-the-aws-storage-gateway-service) |
@@ -477,7 +477,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 352   | [A company wants to use Amazon Elastic Container Service (Amazon ECS) to run its containerized applications. For compliance reasons, the company wants to retain complete visibility and control over the underlying server cluster. Which Amazon ECS launch type will satisfy these requirements?](#a-company-wants-to-use-amazon-elastic-container-service-amazon-ecs-to-run-its-containerized-applications-for-compliance-reasons-the-company-wants-to-retain-complete-visibility-and-control-over-the-underlying-server-cluster-which-amazon-ecs-launch-type-will-satisfy-these-requirements) |
 | 353   | [You have multiple standalone AWS accounts and you want to decrease your AWS monthly charges. What should you do?](#you-have-multiple-standalone-aws-accounts-and-you-want-to-decrease-your-aws-monthly-charges-what-should-you-do) |
 | 354   | [You have been tasked with auditing the security of your VPC. As part of this process, you need to start by analyzing what inbound and outbound traffic is allowed on your EC2 instances. What two parts of the VPC do you need to check to accomplish this task?](#you-have-been-tasked-with-auditing-the-security-of-your-vpc-as-part-of-this-process-you-need-to-start-by-analyzing-what-inbound-and-outbound-traffic-is-allowed-on-your-ec2-instances-what-two-parts-of-the-vpc-do-you-need-to-check-to-accomplish-this-task) |
-| 355   | [What does the AWS "Business" support plan provide? (Choose TWO) ](#what-does-the-aws-business-support-plan-provide-choose-two) |
+| 355   | [What does the AWS "Business" support plan provide? (Choose TWO)](#what-does-the-aws-business-support-plan-provide-choose-two) |
 | 356   | [You have just finished writing your application code. Which service can be used to automate the deployment and scaling of your application?](#you-have-just-finished-writing-your-application-code-which-service-can-be-used-to-automate-the-deployment-and-scaling-of-your-application) |
 | 357   | [Which statement is true in relation to security in AWS?](#which-statement-is-true-in-relation-to-security-in-aws) |
 | 358   | [Amazon EC2 instances are conceptually very similar to traditional servers. However, using Amazon EC2 server instances in the same manner as traditional hardware server instances is only a starting point. What are the main benefits of using the AWS EC2 instances instead of traditional servers? (Choose TWO)](#amazon-ec2-instances-are-conceptually-very-similar-to-traditional-servers-however-using-amazon-ec2-server-instances-in-the-same-manner-as-traditional-hardware-server-instances-is-only-a-starting-point-what-are-the-main-benefits-of-using-the-aws-ec2-instances-instead-of-traditional-servers-choose-two) |
@@ -494,7 +494,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 369   | [Which of the following makes it easier for you to categorize, manage and filter your resources?](#which-of-the-following-makes-it-easier-for-you-to-categorize-manage-and-filter-your-resources) |
 | 370   | [What should you consider when storing data in Amazon Glacier?](#what-should-you-consider-when-storing-data-in-amazon-glacier) |
 | 371   | [Engineers are wasting a lot of time and effort managing batch computing software in traditional data centers. Which of the following AWS services allows them to easily run thousands of batch computing jobs?](#engineers-are-wasting-a-lot-of-time-and-effort-managing-batch-computing-software-in-traditional-data-centers-which-of-the-following-aws-services-allows-them-to-easily-run-thousands-of-batch-computing-jobs) |
-| 372   | [How can you increase your application’s fault-tolerance while it is being hosted in AWS?](#how-can-you-increase-your-applications-fault-tolerance-while-it-is-being-hosted-in-aws) |
+| 372   | [How can you increase your application's fault-tolerance while it is being hosted in AWS?](#how-can-you-increase-your-applications-fault-tolerance-while-it-is-being-hosted-in-aws) |
 | 373   | [Which of the following AWS Support Plans gives you 24/7 access to Cloud Support Engineers via email & phone? (Choose TWO)](#which-of-the-following-aws-support-plans-gives-you-247-access-to-cloud-support-engineers-via-email--phone-choose-two) |
 | 374   | [Which of the following requires an access key ID and a secret access key to get long-lived programmatic access to AWS resources? (Choose TWO)](#which-of-the-following-requires-an-access-key-id-and-a-secret-access-key-to-get-long-lived-programmatic-access-to-aws-resources-choose-two) |
 | 375   | [Which of the following is a benefit of the "Loose Coupling" architecture principle?](#which-of-the-following-is-a-benefit-of-the-loose-coupling-architecture-principle) |
@@ -502,7 +502,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 377   | [Which of the following Cloud Computing deployment models eliminates the need to run and maintain physical data centers?](#which-of-the-following-cloud-computing-deployment-models-eliminates-the-need-to-run-and-maintain-physical-data-centers) |
 | 378   | [What are the benefits of the AWS Marketplace service? (Choose TWO)](#what-are-the-benefits-of-the-aws-marketplace-service-choose-two) |
 | 379   | [What is the benefit of Amazon EBS volumes being automatically replicated within the same availability zone?](#what-is-the-benefit-of-amazon-ebs-volumes-being-automatically-replicated-within-the-same-availability-zone) |
-| 380   | [You are planning to launch an advertising campaign over the coming weekend to promote a new digital product. It is expected that there will be heavy spikes in load during the campaign period, and you can’t afford any downtime. You need additional compute resources to handle the additional load. What is the most cost-effective EC2 instance purchasing option for this job?](#you-are-planning-to-launch-an-advertising-campaign-over-the-coming-weekend-to-promote-a-new-digital-product-it-is-expected-that-there-will-be-heavy-spikes-in-load-during-the-campaign-period-and-you-cant-afford-any-downtime-you-need-additional-compute-resources-to-handle-the-additional-load-what-is-the-most-cost-effective-ec2-instance-purchasing-option-for-this-job) |
+| 380   | [You are planning to launch an advertising campaign over the coming weekend to promote a new digital product. It is expected that there will be heavy spikes in load during the campaign period, and you can't afford any downtime. You need additional compute resources to handle the additional load. What is the most cost-effective EC2 instance purchasing option for this job?](#you-are-planning-to-launch-an-advertising-campaign-over-the-coming-weekend-to-promote-a-new-digital-product-it-is-expected-that-there-will-be-heavy-spikes-in-load-during-the-campaign-period-and-you-cant-afford-any-downtime-you-need-additional-compute-resources-to-handle-the-additional-load-what-is-the-most-cost-effective-ec2-instance-purchasing-option-for-this-job) |
 | 381   | [Which of the following AWS services integrates with AWS Shield and AWS Web Application Firewall (AWS WAF) to protect against network and application layer DDoS attacks?](#which-of-the-following-aws-services-integrates-with-aws-shield-and-aws-web-application-firewall-aws-waf-to-protect-against-network-and-application-layer-ddos-attacks) |
 | 382   | [Which of the following services is used when encrypting EBS volumes?](#which-of-the-following-services-is-used-when-encrypting-ebs-volumes) |
 | 383   | [The AWS account administrator of your company has been fired. With the permissions granted to him as an administrator, he was able to create multiple IAM user accounts and access keys. Additionally, you are not sure whether he has access to the AWS root account or not. What should you do immediately to protect your AWS infrastructure? (Choose TWO)](#the-aws-account-administrator-of-your-company-has-been-fired-with-the-permissions-granted-to-him-as-an-administrator-he-was-able-to-create-multiple-iam-user-accounts-and-access-keys-additionally-you-are-not-sure-whether-he-has-access-to-the-aws-root-account-or-not-what-should-you-do-immediately-to-protect-your-aws-infrastructure-choose-two) |
@@ -511,7 +511,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 386   | [What are some of the benefits of using On-Demand EC2 instances? (Choose TWO)](#what-are-some-of-the-benefits-of-using-on-demand-ec2-instances-choose-two) |
 | 387   | [Each AWS Region is composed of multiple Availability Zones. Which of the following best describes what an Availability Zone is?](#each-aws-region-is-composed-of-multiple-availability-zones-which-of-the-following-best-describes-what-an-availability-zone-is) |
 | 388   | [AWS provides disaster recovery capability by allowing customers to deploy infrastructure into multiple [...].](#aws-provides-disaster-recovery-capability-by-allowing-customers-to-deploy-infrastructure-into-multiple-) |
-| 389   | [A financial services company decides to migrate one of its applications to AWS. The application deals with sensitive data, such as credit card information, and must run on a PCI-compliant environment. Which of the following is the company’s responsibility when building a PCI-compliant environment in AWS? (Choose TWO)](#a-financial-services-company-decides-to-migrate-one-of-its-applications-to-aws-the-application-deals-with-sensitive-data-such-as-credit-card-information-and-must-run-on-a-pci-compliant-environment-which-of-the-following-is-the-companys-responsibility-when-building-a-pci-compliant-environment-in-aws-choose-two) |
+| 389   | [A financial services company decides to migrate one of its applications to AWS. The application deals with sensitive data, such as credit card information, and must run on a PCI-compliant environment. Which of the following is the company's responsibility when building a PCI-compliant environment in AWS? (Choose TWO)](#a-financial-services-company-decides-to-migrate-one-of-its-applications-to-aws-the-application-deals-with-sensitive-data-such-as-credit-card-information-and-must-run-on-a-pci-compliant-environment-which-of-the-following-is-the-companys-responsibility-when-building-a-pci-compliant-environment-in-aws-choose-two) |
 | 390   | [What is the maximum amount of data that can be stored in S3 in a single AWS account?](#what-is-the-maximum-amount-of-data-that-can-be-stored-in-s3-in-a-single-aws-account) |
 | 391   | [Which pillar of the AWS Well-Architected Framework provides recommendations to help customers select the right compute resources based on workload requirements?](#which-pillar-of-the-aws-well-architected-framework-provides-recommendations-to-help-customers-select-the-right-compute-resources-based-on-workload-requirements) |
 | 392   | [Which AWS service delivers data, videos, applications, and APIs to users globally with low latency and high transfer speeds?](#which-aws-service-delivers-data-videos-applications-and-apis-to-users-globally-with-low-latency-and-high-transfer-speeds) |
@@ -519,7 +519,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 394   | [Which AWS Cost Management tool allows you to view the most granular data about your AWS bill?](#which-aws-cost-management-tool-allows-you-to-view-the-most-granular-data-about-your-aws-bill) |
 | 395   | [Which element of the AWS global infrastructure consists of one or more discrete data centers each with redundant power networking and connectivity which are housed in separate facilities?](#which-element-of-the-aws-global-infrastructure-consists-of-one-or-more-discrete-data-centers-each-with-redundant-power-networking-and-connectivity-which-are-housed-in-separate-facilities) |
 | 396   | [How many Availability Zones should compute resources be provisioned across to achieve high availability?](#how-many-availability-zones-should-compute-resources-be-provisioned-across-to-achieve-high-availability) |
-| 397   | [The AWS Cloud’s multiple Regions are an example of:](#the-aws-clouds-multiple-regions-are-an-example-of) |
+| 397   | [The AWS Cloud's multiple Regions are an example of:](#the-aws-clouds-multiple-regions-are-an-example-of) |
 | 398   | [Which AWS service can be used to manually launch instances based on resource requirements?](#which-aws-service-can-be-used-to-manually-launch-instances-based-on-resource-requirements) |
 | 399   | [Which is a recommended pattern for designing a highly available architecture on AWS?](#which-is-a-recommended-pattern-for-designing-a-highly-available-architecture-on-aws) |
 | 400   | [Which AWS characteristics make AWS cost effective for a workload with dynamic user demand? (Select TWO)](#which-aws-characteristics-make-aws-cost-effective-for-a-workload-with-dynamic-user-demand-select-two) |
@@ -535,19 +535,19 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 410   | [Which storage service can be used as a low-cost option for hosting static websites?](#which-storage-service-can-be-used-as-a-low-cost-option-for-hosting-static-websites) |
 | 411   | [According to the AWS shared responsibility model what is the sole responsibility of AWS?](#according-to-the-aws-shared-responsibility-model-what-is-the-sole-responsibility-of-aws) |
 | 412   | [Which of the following are pillars of the AWS Well-Architected Framework? (Select TWO)](#which-of-the-following-are-pillars-of-the-aws-well-architected-framework-select-two) |
-| 413   | [Which AWS service identifies security groups that allow unrestricted access to a user’s AWS resources?](#which-aws-service-identifies-security-groups-that-allow-unrestricted-access-to-a-users-aws-resources) |
+| 413   | [Which AWS service identifies security groups that allow unrestricted access to a user's AWS resources?](#which-aws-service-identifies-security-groups-that-allow-unrestricted-access-to-a-users-aws-resources) |
 | 414   | [Which design principles for cloud architecture are recommended when re-architecting a large monolithic application? (Select TWO)](#which-design-principles-for-cloud-architecture-are-recommended-when-re-architecting-a-large-monolithic-application-select-two) |
 | 415   | [When architecting cloud applications, which of the following are a key design principle?](#when-architecting-cloud-applications-which-of-the-following-are-a-key-design-principle) |
 | 416   | [A company has deployed several relational databases on Amazon EC2 instances Every month the database software vendor releases new security patches that need to be applied to the databases. What is the MOST efficient way to apply the security patches?](#a-company-has-deployed-several-relational-databases-on-amazon-ec2-instances-every-month-the-database-software-vendor-releases-new-security-patches-that-need-to-be-applied-to-the-databases-what-is-the-most-efficient-way-to-apply-the-security-patches) |
 | 417   | [Which mechanism a Hows developers lo access AWS sendees from application code?](#which-mechanism-a-hows-developers-lo-access-aws-sendees-from-application-code) |
-| 418   | [Which AWS feature will reduce the customer’s total cost of ownership (TCO)?](#which-aws-feature-will-reduce-the-customers-total-cost-of-ownership-tco) |
+| 418   | [Which AWS feature will reduce the customer's total cost of ownership (TCO)?](#which-aws-feature-will-reduce-the-customers-total-cost-of-ownership-tco) |
 | 419   | [Which of the following is a benefit of using the AWS Cloud?](#which-of-the-following-is-a-benefit-of-using-the-aws-cloud) |
 | 420   | [Which of the following are categories of AWS Trusted Advisor? (Select TWO)](#which-of-the-following-are-categories-of-aws-trusted-advisor-select-two) |
 | 421   | [What is Amazon CloudWatch?](#what-is-amazon-cloudwatch) |
-| 422   | [Under the AWS shared responsibility model, which of the following activities are the customer’s responsibility? (Select TWO)](#under-the-aws-shared-responsibility-model-which-of-the-following-activities-are-the-customers-responsibility-select-two) |
+| 422   | [Under the AWS shared responsibility model, which of the following activities are the customer's responsibility? (Select TWO)](#under-the-aws-shared-responsibility-model-which-of-the-following-activities-are-the-customers-responsibility-select-two) |
 | 423   | [Under the shared responsibility model, which of the following is a shared control between a customer and AWS?](#under-the-shared-responsibility-model-which-of-the-following-is-a-shared-control-between-a-customer-and-aws) |
 | 424   | [Which AWS service is used to pay AWS bills, and monitor usage and budget costs?](#which-aws-service-is-used-to-pay-aws-bills-and-monitor-usage-and-budget-costs) |
-| 425   | [How do customers benefit from Amazon’s massive economies of scale?](#how-do-customers-benefit-from-amazons-massive-economies-of-scale) |
+| 425   | [How do customers benefit from Amazon's massive economies of scale?](#how-do-customers-benefit-from-amazons-massive-economies-of-scale) |
 | 426   | [Which AWS feature allows a company to take advantage of usage tiers for services across multiple member accounts?](#which-aws-feature-allows-a-company-to-take-advantage-of-usage-tiers-for-services-across-multiple-member-accounts) |
 | 427   | [Which AWS services provide a way to extend an on-premises architecture to the aws cloud? (Select TWO)](#which-aws-services-provide-a-way-to-extend-an-on-premises-architecture-to-the-aws-cloud-select-two) |
 | 428   | [Which of the following services will automatically scale with an expected increase in web traffic?](#which-of-the-following-services-will-automatically-scale-with-an-expected-increase-in-web-traffic) |
@@ -578,7 +578,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 453   | [Which of the following are features of Amazon CloudWatch Logs? (Select TWO)](#which-of-the-following-are-features-of-amazon-cloudwatch-logs-select-two) |
 | 454   | [Which of the following is an AWS-managed compute service?](#which-of-the-following-is-an-aws-managed-compute-service) |
 | 455   | [A company wants to reduce the physical compute footprint that developers use to run code. Which service would meet that need by enabling serverless architectures?](#a-company-wants-to-reduce-the-physical-compute-footprint-that-developers-use-to-run-code-which-service-would-meet-that-need-by-enabling-serverless-architectures) |
-| 456   | [Which of the following is the customer’s responsibility under the AWS shared responsibility model?](#which-of-the-following-is-the-customers-responsibility-under-the-aws-shared-responsibility-model) |
+| 456   | [Which of the following is the customer's responsibility under the AWS shared responsibility model?](#which-of-the-following-is-the-customers-responsibility-under-the-aws-shared-responsibility-model) |
 | 457   | [According to the AWS shared responsibility model who ts responsible for configuration management?](#according-to-the-aws-shared-responsibility-model-who-ts-responsible-for-configuration-management) |
 | 458   | [Which security service automatically recognizes and classifies sensitive data or intellectual property on AWS?](#which-security-service-automatically-recognizes-and-classifies-sensitive-data-or-intellectual-property-on-aws) |
 | 459   | [Which of the following BEST describe the AWS pricing model? (Select TWO)](#which-of-the-following-best-describe-the-aws-pricing-model-select-two) |
@@ -618,14 +618,14 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 493   | [What time-savings advantage is offered with the use of Amazon Rekognition?](#what-time-savings-advantage-is-offered-with-the-use-of-amazon-rekognition) |
 | 494   | [Which AWS service can be used to automatically scale an application up and down without making capacity planning decisions?](#which-aws-service-can-be-used-to-automatically-scale-an-application-up-and-down-without-making-capacity-planning-decisions) |
 | 495   | [Amazon Relational Database Service (Amazon RDS) offers which of the following benefits over traditional database management?](#amazon-relational-database-service-amazon-rds-offers-which-of-the-following-benefits-over-traditional-database-management) |
-| 496   | [A company’s web application currently has light dependencies on underlying components so when one component fails the entire web application fails. Applying which AWS Cloud design principle will address the current design issue?](#a-companys-web-application-currently-has-light-dependencies-on-underlying-components-so-when-one-component-fails-the-entire-web-application-fails-applying-which-aws-cloud-design-principle-will-address-the-current-design-issue) |
+| 496   | [A company's web application currently has light dependencies on underlying components so when one component fails the entire web application fails. Applying which AWS Cloud design principle will address the current design issue?](#a-companys-web-application-currently-has-light-dependencies-on-underlying-components-so-when-one-component-fails-the-entire-web-application-fails-applying-which-aws-cloud-design-principle-will-address-the-current-design-issue) |
 | 497   | [A customer would like to design and build a new workload on AWS Cloud but does not have the AWS-related software technical expertise in-house. Which of the following AWS programs can a customer take advantage of to achieve that outcome?](#a-customer-would-like-to-design-and-build-a-new-workload-on-aws-cloud-but-does-not-have-the-aws-related-software-technical-expertise-in-house-which-of-the-following-aws-programs-can-a-customer-take-advantage-of-to-achieve-that-outcome) |
 | 498   | [Which service stores objects, provides real-time access to those objects, and offers versioning and lifecycle capabilities?](#which-service-stores-objects-provides-real-time-access-to-those-objects-and-offers-versioning-and-lifecycle-capabilities) |
 | 499   | [Distributing workloads across multiple Availability Zones supports which cloud architecture design principle?](#distributing-workloads-across-multiple-availability-zones-supports-which-cloud-architecture-design-principle) |
 | 500   | [Which service should a customer use to consolidate and centrally manage multiple AWS accounts?](#which-service-should-a-customer-use-to-consolidate-and-centrally-manage-multiple-aws-accounts) |
 | 501   | [How can a company reduce its Total Cost of Ownership (TCO) using AWS?](#how-can-a-company-reduce-its-total-cost-of-ownership-tco-using-aws) |
 | 502   | [Which options does AWS make available for customers who want to learn about security in the cloud in an instructor-led setting? (Select TWO)](#which-options-does-aws-make-available-for-customers-who-want-to-learn-about-security-in-the-cloud-in-an-instructor-led-setting-select-two) |
-| 503   | [Which of the following will enhance the security of access to the AWS Management Console’? (Select TWO)](#which-of-the-following-will-enhance-the-security-of-access-to-the-aws-management-console-select-two) |
+| 503   | [Which of the following will enhance the security of access to the AWS Management Console'? (Select TWO)](#which-of-the-following-will-enhance-the-security-of-access-to-the-aws-management-console-select-two) |
 | 504   | [Which of the following features can be configured through the Amazon Virtual Private Cloud (Amazon VPC) Dashboard? (Select TWO)](#which-of-the-following-features-can-be-configured-through-the-amazon-virtual-private-cloud-amazon-vpc-dashboard-select-two) |
 | 505   | [For which auditing process does AWS have sole responsibility?](#for-which-auditing-process-does-aws-have-sole-responsibility) |
 | 506   | [Which of the following are advantages of AWS consolidated billing? (Select TWO)](#which-of-the-following-are-advantages-of-aws-consolidated-billing-select-two) |
@@ -662,16 +662,16 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 537   | [Which of the following AWS services can be used to serve large amounts of online video content with the lowest possible latency? (Select TWO)](#which-of-the-following-aws-services-can-be-used-to-serve-large-amounts-of-online-video-content-with-the-lowest-possible-latency-select-two) |
 | 538   | [What can AWS edge locations be used for? (Select TWO)](#what-can-aws-edge-locations-be-used-for-select-two) |
 | 539   | [A company is planning to migrate from on-premises to the AWS Cloud. When AWS tool or service provides detailed reports on estimated cost savings after migration?](#a-company-is-planning-to-migrate-from-on-premises-to-the-aws-cloud-when-aws-tool-or-service-provides-detailed-reports-on-estimated-cost-savings-after-migration) |
-| 540   | [Which AWS service provides a customized view of the health of specific AWS services that power a customer’s workloads running on AWS?](#which-aws-service-provides-a-customized-view-of-the-health-of-specific-aws-services-that-power-a-customers-workloads-running-on-aws) |
+| 540   | [Which AWS service provides a customized view of the health of specific AWS services that power a customer's workloads running on AWS?](#which-aws-service-provides-a-customized-view-of-the-health-of-specific-aws-services-that-power-a-customers-workloads-running-on-aws) |
 | 541   | [One of the advantages to moving infrastructure from an on-premises data center to the AWS Cloud is:](#one-of-the-advantages-to-moving-infrastructure-from-an-on-premises-data-center-to-the-aws-cloud-is) |
 | 542   | [How can an AWS user with an AWS Basic Support plan obtain technical assistance from AWS?](#how-can-an-aws-user-with-an-aws-basic-support-plan-obtain-technical-assistance-from-aws) |
 | 543   | [How can a user protect against AWS service disruptions if a natural disaster affects an entire geographic area?](#how-can-a-user-protect-against-aws-service-disruptions-if-a-natural-disaster-affects-an-entire-geographic-area) |
 | 544   | [Which activity is a customer responsibility in the AWS Cloud according to the AWS shared responsibility model?](#which-activity-is-a-customer-responsibility-in-the-aws-cloud-according-to-the-aws-shared-responsibility-model) |
 | 545   | [In which scenario should Amazon EC2 Spot Instances be used?](#in-which-scenario-should-amazon-ec2-spot-instances-be-used) |
-| 546   | [A customer is deploying a new application and needs to choose an AWS Region. Which of the following factors could influence the customer’s decision? (Select TWO)](#a-customer-is-deploying-a-new-application-and-needs-to-choose-an-aws-region-which-of-the-following-factors-could-influence-the-customers-decision-select-two) |
-| 547   | [Which AWS service provides alerts when an AWS event may impact a company’s AWS resources?](#which-aws-service-provides-alerts-when-an-aws-event-may-impact-a-companys-aws-resources) |
+| 546   | [A customer is deploying a new application and needs to choose an AWS Region. Which of the following factors could influence the customer's decision? (Select TWO)](#a-customer-is-deploying-a-new-application-and-needs-to-choose-an-aws-region-which-of-the-following-factors-could-influence-the-customers-decision-select-two) |
+| 547   | [Which AWS service provides alerts when an AWS event may impact a company's AWS resources?](#which-aws-service-provides-alerts-when-an-aws-event-may-impact-a-companys-aws-resources) |
 | 548   | [Which disaster recovery scenario offers the lowest probability of down time?](#which-disaster-recovery-scenario-offers-the-lowest-probability-of-down-time) |
-| 549   | [Which service’s PRIMARY purpose is software version control?](#which-services-primary-purpose-is-software-version-control) |
+| 549   | [Which service's PRIMARY purpose is software version control?](#which-services-primary-purpose-is-software-version-control) |
 | 550   | [How can a customer increase security to AWS account logons? (Select TWO)](#how-can-a-customer-increase-security-to-aws-account-logons-select-two) |
 | 551   | [Which of the following components of the AWS Global Infrastructure consists of one or more discrete data centers interconnected through low latency links?](#which-of-the-following-components-of-the-aws-global-infrastructure-consists-of-one-or-more-discrete-data-centers-interconnected-through-low-latency-links) |
 | 552   | [One benefit of On-Demand Amazon Elastic Compute Cloud (Amazon EC2) pricing is:](#one-benefit-of-on-demand-amazon-elastic-compute-cloud-amazon-ec2-pricing-is) |
@@ -681,7 +681,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 556   | [What is a value proposition of the AWS Cloud?](#what-is-a-value-proposition-of-the-aws-cloud) |
 | 557   | [A company is migrating an application that is running non-interruptible workloads for a three-year time frame. Which pricing construct would provide the MOST cost-effective solution?](#a-company-is-migrating-an-application-that-is-running-non-interruptible-workloads-for-a-three-year-time-frame-which-pricing-construct-would-provide-the-most-cost-effective-solution) |
 | 558   | [Which AWS service is used to track record, and audit configuration changes made to AWS resources?](#which-aws-service-is-used-to-track-record-and-audit-configuration-changes-made-to-aws-resources) |
-| 559   | [Which feature of the AWS Cloud will support an international company’s requirement for low latency to all of its customers?](#which-feature-of-the-aws-cloud-will-support-an-international-companys-requirement-for-low-latency-to-all-of-its-customers) |
+| 559   | [Which feature of the AWS Cloud will support an international company's requirement for low latency to all of its customers?](#which-feature-of-the-aws-cloud-will-support-an-international-companys-requirement-for-low-latency-to-all-of-its-customers) |
 | 560   | [How can one AWS account use Reserved Instances from another AWS account?](#how-can-one-aws-account-use-reserved-instances-from-another-aws-account) |
 | 561   | [What are the benefits of developing and running a new application in the AWS Cloud compared to on-premises? (Select TWO)](#what-are-the-benefits-of-developing-and-running-a-new-application-in-the-aws-cloud-compared-to-on-premises-select-two) |
 | 562   | [Which of the following services falls under the responsibility of the customer to maintain operating system configuration, security patching, and networking?](#which-of-the-following-services-falls-under-the-responsibility-of-the-customer-to-maintain-operating-system-configuration-security-patching-and-networking) |
@@ -705,8 +705,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 580   | [How should a customer forecast the future costs for running a new web application?](#how-should-a-customer-forecast-the-future-costs-for-running-a-new-web-application) |
 | 581   | [Where are AWS compliance documents, such as an SOC 1 report, located?](#where-are-aws-compliance-documents-such-as-an-soc-1-report-located) |
 | 582   | [Which of the following tasks is the responsibility of AWS?](#which-of-the-following-tasks-is-the-responsibility-of-aws) |
-| 583   | [Under the shared responsibility model which of the following areas are the customer’s responsibility? (Select TWO)](#under-the-shared-responsibility-model-which-of-the-following-areas-are-the-customers-responsibility-select-two) |
-| 584   | [A company is looking for a scalable data warehouse solution. Which of the following AWS solutions would meet the company’s needs?](#a-company-is-looking-for-a-scalable-data-warehouse-solution-which-of-the-following-aws-solutions-would-meet-the-companys-needs) |
+| 583   | [Under the shared responsibility model which of the following areas are the customer's responsibility? (Select TWO)](#under-the-shared-responsibility-model-which-of-the-following-areas-are-the-customers-responsibility-select-two) |
+| 584   | [A company is looking for a scalable data warehouse solution. Which of the following AWS solutions would meet the company's needs?](#a-company-is-looking-for-a-scalable-data-warehouse-solution-which-of-the-following-aws-solutions-would-meet-the-companys-needs) |
 | 585   | [Much AWS services provide a way to extend an on-premises architecture to the AWS Cloud? (Select TWO)](#much-aws-services-provide-a-way-to-extend-an-on-premises-architecture-to-the-aws-cloud-select-two) |
 | 586   | [What are the advantages of the AWS Cloud (Select TWO)](#what-are-the-advantages-of-the-aws-cloud-select-two) |
 | 587   | [How can the AWS Cloud increase user workforce productivity after migration from an on-premises data center?](#how-can-the-aws-cloud-increase-user-workforce-productivity-after-migration-from-an-on-premises-data-center) |
@@ -779,7 +779,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Deploy the application across multiple Availability Zones and Edge locations.
 - [ ] Deploy the application across multiple Availability Zones and subnets.
 - [x] Deploy the application across multiple Regions and Availability Zones.
-- [ ] Deploy the application across multiple VPC’s and subnets.
+- [ ] Deploy the application across multiple VPC's and subnets.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -868,7 +868,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### What do you gain from setting up consolidated billing for five different AWS accounts under another master account?
 
-- [ ] AWS services’ costs will be reduced to half the original price.
+- [ ] AWS services' costs will be reduced to half the original price.
 - [ ] The consolidated billing feature is just for organizational purpose.
 - [x] Each AWS account gets volume discounts.
 - [ ] Each AWS account gets five times the free-tier services capacity.
@@ -885,7 +885,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### One of the most important AWS best-practices to follow is the cloud architecture principle of elasticity. How does this principle improve your architecture’s design?
+### One of the most important AWS best-practices to follow is the cloud architecture principle of elasticity. How does this principle improve your architecture's design?
 
 - [ ] By automatically scaling your on-premises resources based on changes in demand.
 - [ ] By automatically scaling your AWS resources using an Elastic Load Balancer.
@@ -959,7 +959,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A company is deploying a new two-tier web application in AWS. Where should the most frequently accessed data be stored so that the application’s response time is optimal?
+### A company is deploying a new two-tier web application in AWS. Where should the most frequently accessed data be stored so that the application's response time is optimal?
 
 - [ ] AWS OpsWorks.
 - [ ] AWS Storage Gateway.
@@ -1069,7 +1069,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### In order to implement best practices when dealing with a “Single Point of Failure,” you should attempt to build as much automation as possible in both detecting and reacting to failure. Which of the following AWS services would help? (Choose TWO)
+### In order to implement best practices when dealing with a 'Single Point of Failure,' you should attempt to build as much automation as possible in both detecting and reacting to failure. Which of the following AWS services would help? (Choose TWO)
 
 - [x] ELB.
 - [x] Auto Scaling.
@@ -1125,7 +1125,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You have deployed your application on multiple Amazon EC2 instances. Your customers complain that sometimes they can’t reach your application. Which AWS service allows you to monitor the performance of your EC2 instances to assist in troubleshooting these issues?
+### You have deployed your application on multiple Amazon EC2 instances. Your customers complain that sometimes they can't reach your application. Which AWS service allows you to monitor the performance of your EC2 instances to assist in troubleshooting these issues?
 
 - [ ] AWS Lambda.
 - [ ] AWS Config.
@@ -1149,7 +1149,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Amazon S3 can run any type of application or backend system.
 - [ ] Amazon S3 stores any number of objects, but with object size limits.
 - [x] Amazon S3 can be scaled manually to store and retrieve any amount of data from anywhere.
-- [ ] Amazon S3 provides 99.999999999% (11 9’s) of data durability.
+- [ ] Amazon S3 provides 99.999999999% (11 9's) of data durability.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1299,7 +1299,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The principle “design for failure and nothing will fail” is very important when designing your AWS Cloud architecture. Which of the following would help adhere to this principle? (Choose TWO)
+### The principle 'design for failure and nothing will fail' is very important when designing your AWS Cloud architecture. Which of the following would help adhere to this principle? (Choose TWO)
 
 - [ ] Multi-factor authentication.
 - [x] Availability Zones.
@@ -1508,7 +1508,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### AWS has created a large number of Edge Locations as part of its Global Infrastructure. Which of the following is NOT a benefit of using Edge Locations?
 
 - [ ] Edge locations are used by CloudFront to cache the most recent responses.
-- [ ] Edge locations are used by CloudFront to improve your end users’ experience when uploading files.
+- [ ] Edge locations are used by CloudFront to improve your end users' experience when uploading files.
 - [x] Edge locations are used by CloudFront to distribute traffic across multiple instances to reduce latency.
 - [ ] Edge locations are used by CloudFront to distribute content to global users with low latency.
 
@@ -1570,7 +1570,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the AWS service/feature that takes advantage of Amazon CloudFront’s globally distributed edge locations to transfer files to S3 with higher upload speeds?
+### What is the AWS service/feature that takes advantage of Amazon CloudFront's globally distributed edge locations to transfer files to S3 with higher upload speeds?
 
 - [x] S3 Transfer Acceleration.
 - [ ] AWS WAF.
@@ -1719,7 +1719,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Sarah has deployed an application in the Northern California (us-west-1) region. After examining the application’s traffic, she notices that about 30% of the traffic is coming from Asia. What can she do to reduce latency for the users in Asia?
+### Sarah has deployed an application in the Northern California (us-west-1) region. After examining the application's traffic, she notices that about 30% of the traffic is coming from Asia. What can she do to reduce latency for the users in Asia?
 
 - [ ] Replicate the current resources across multiple Availability Zones within the same region.
 - [ ] Migrate the application to a hosting provider in Asia.
@@ -1767,7 +1767,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Amazon Glacier is an Amazon S3 storage class that is suitable for storing [...] & [...]. (Choose TWO)
 
 - [x] Active archives.
-- [ ] Dynamic websites’ assets.
+- [ ] Dynamic websites' assets.
 - [x] Long-term analytic data.
 - [ ] Active databases.
 - [ ] Cached data.
@@ -1811,7 +1811,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your application has recently experienced significant global growth, and international users are complaining of high latency. What is the AWS characteristic that can help improve your international users’ experience?
+### Your application has recently experienced significant global growth, and international users are complaining of high latency. What is the AWS characteristic that can help improve your international users' experience?
 
 - [ ] Elasticity.
 - [x] Global reach.
@@ -1951,7 +1951,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following statements describes the AWS Cloud’s agility?
+### Which of the following statements describes the AWS Cloud's agility?
 
 - [ ] AWS allows you to host your applications in multiple regions around the world.
 - [ ] AWS provides customizable hardware at the lowest possible cost.
@@ -2221,7 +2221,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the AWS’ recommendation regarding access keys?
+### What is the AWS' recommendation regarding access keys?
 
 - [ ] Delete all access keys and use passwords instead.
 - [ ] Only share them with trusted people.
@@ -2417,7 +2417,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Both AWS and traditional IT distributors provide a wide range of virtual servers to meet their customers’ requirements. What is the name of these virtual servers in AWS?
+### Both AWS and traditional IT distributors provide a wide range of virtual servers to meet their customers' requirements. What is the name of these virtual servers in AWS?
 
 - [ ] Amazon EBS Snapshots.
 - [ ] Amazon VPC.
@@ -2707,7 +2707,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which of the following factors should be considered when determining the region in which AWS Resources will be deployed? (Choose TWO)
 
-- [ ] The AWS Region’s security level.
+- [ ] The AWS Region's security level.
 - [x] Data sovereignty.
 - [x] Cost.
 - [ ] The planned number of VPCs.
@@ -2742,7 +2742,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following are examples of the customer’s responsibility to implement “security IN the cloud”? (Choose TWO)
+### Which of the following are examples of the customer's responsibility to implement 'security IN the cloud'? (Choose TWO)
 
 - [x] Building a schema for an application.
 - [ ] Replacing physical hardware.
@@ -2807,7 +2807,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### An external auditor is requesting a log of all accesses to the AWS resources in the company’s account. Which of the following services will provide the auditor with the requested information?
+### An external auditor is requesting a log of all accesses to the AWS resources in the company's account. Which of the following services will provide the auditor with the requested information?
 
 - [x] AWS CloudTrail.
 - [ ] Amazon CloudFront.
@@ -2908,7 +2908,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A company is migrating a web application to AWS. The application’s compute capacity is continually utilized throughout the year. Which of the below options offers the company the most cost-effective solution?
+### A company is migrating a web application to AWS. The application's compute capacity is continually utilized throughout the year. Which of the below options offers the company the most cost-effective solution?
 
 - [ ] On-demand Instances.
 - [ ] Dedicated Hosts.
@@ -2981,7 +2981,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What should you do if you see resources, which you don’t remember creating, in the AWS Management Console? (Choose TWO)
+### What should you do if you see resources, which you don't remember creating, in the AWS Management Console? (Choose TWO)
 
 - [ ] Stop all running services and open an investigation.
 - [ ] Give your root account password to AWS Support so that they can assistin troubleshooting and securing the account.
@@ -3022,8 +3022,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Lambda only supports Python and Node.js, but third party plugins are available to convert code in other languages to these formats.
 - [x] Lambda natively supports a number of programming languages such as Node.js, Python, and Java.
-- [ ] Lambda is AWS’ proprietary programming language for microservices.
-- [ ] Lambda doesn’t support programming languages; it is a serverless compute service.
+- [ ] Lambda is AWS' proprietary programming language for microservices.
+- [ ] Lambda doesn't support programming languages; it is a serverless compute service.
 - [x] Lambda can support any programming language using an API.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -3123,7 +3123,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A company’s AWS workflow requires that it periodically perform large-scale image and video processing jobs. The customer is seeking to minimize cost and has stated that the amount of time it takes to process these jobs is not critical, but that cost minimization is the most important factor in designing the solution. Which EC2 instance class is best suited for this processing?
+### A company's AWS workflow requires that it periodically perform large-scale image and video processing jobs. The customer is seeking to minimize cost and has stated that the amount of time it takes to process these jobs is not critical, but that cost minimization is the most important factor in designing the solution. Which EC2 instance class is best suited for this processing?
 
 - [ ] EC2 On-Demand Instances.
 - [ ] EC2 Reserved Instances - No Upfront.
@@ -3288,7 +3288,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What does the term “Economies of scale” mean?
+### What does the term 'Economies of scale' mean?
 
 - [ ] It means that you save more when you consume more.
 - [ ] It means as more time passes using AWS, you pay more for its services.
@@ -3364,7 +3364,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### What best describes penetration testing?
 
-- [ ] Testing your application’s response time from different locations.
+- [ ] Testing your application's response time from different locations.
 - [x] Testing your network to find security vulnerabilities that an attacker could exploit.
 - [ ] Testing your instances to check for the unhealthy ones.
 - [ ] Testing your software for bugs and errors.
@@ -3390,7 +3390,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A developer wants to quickly deploy and manage his application in the AWS Cloud, but he doesn’t have any experience with cloud computing. Which of the following AWS services would help the developer achieve his goal?
+### A developer wants to quickly deploy and manage his application in the AWS Cloud, but he doesn't have any experience with cloud computing. Which of the following AWS services would help the developer achieve his goal?
 
 - [ ] AWS Fargate.
 - [ ] AWS Batch.
@@ -3837,7 +3837,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### How does AWS help customers achieve compliance in the cloud?
 
 - [ ] It's not possible to meet regulatory compliance requirements in the Cloud.
-- [ ] AWS applies the most common Cloud security standards, and is responsible for complying with customers’ applicable laws and regulations.
+- [ ] AWS applies the most common Cloud security standards, and is responsible for complying with customers' applicable laws and regulations.
 - [x] AWS has many common assurance certifications such as ISO 9001 and HIPAA.
 - [ ] Many AWS services are assessed regularly to comply with local laws and regulations.
 
@@ -3865,7 +3865,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [x] Control access to AWS services.
 - [ ] Help organizations design and maintain an accelerated path to successful cloud adoption.
-- [ ] Manage your organization’s payment methods.
+- [ ] Manage your organization's payment methods.
 - [ ] Help organization achieve their desired business outcomes with AWS.
 - [x] Consolidate billing across multiple AWS accounts.
 
@@ -4159,7 +4159,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### How can you increase your application’s fault-tolerance while it is being hosted in AWS?
+### How can you increase your application's fault-tolerance while it is being hosted in AWS?
 
 - [ ] Deploy your application across multiple EC2 instances.
 - [x] Deploy your application across multiple Availability Zones.
@@ -4234,7 +4234,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You are planning to launch an advertising campaign over the coming weekend to promote a new digital product. It is expected that there will be heavy spikes in load during the campaign period, and you can’t afford any downtime. You need additional compute resources to handle the additional load. What is the most cost-effective EC2 instance purchasing option for this job?
+### You are planning to launch an advertising campaign over the coming weekend to promote a new digital product. It is expected that there will be heavy spikes in load during the campaign period, and you can't afford any downtime. You need additional compute resources to handle the additional load. What is the most cost-effective EC2 instance purchasing option for this job?
 
 - [ ] Savings Plans.
 - [ ] Spot Instances.
@@ -4295,7 +4295,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] They provide free capacity when testing your new applications.
 - [ ] They are cheaper than all other EC2 options.
-- [x] They remove the need to buy “safety net” capacity to handle periodic traffic spikes.
+- [x] They remove the need to buy 'safety net' capacity to handle periodic traffic spikes.
 - [ ] They only require 1-2 days for setup and configuration.
 - [x] You can increase or decrease your compute capacity depending on the demands of your application.
 
@@ -4319,7 +4319,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A financial services company decides to migrate one of its applications to AWS. The application deals with sensitive data, such as credit card information, and must run on a PCI-compliant environment. Which of the following is the company’s responsibility when building a PCI-compliant environment in AWS? (Choose TWO)
+### A financial services company decides to migrate one of its applications to AWS. The application deals with sensitive data, such as credit card information, and must run on a PCI-compliant environment. Which of the following is the company's responsibility when building a PCI-compliant environment in AWS? (Choose TWO)
 
 - [ ] Start the migration process immediately as all AWS services are PCI compliant.
 - [x] Ensure that AWS services are configured properly to meetall PCI DSS standards.
@@ -4359,7 +4359,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which of the following steps should be taken by a customer when conducting penetration testing on AWS?
 
 - [ ] Conduct penetration testing using Amazon Inspector, and then notify AWS support.
-- [x] Request and wait for approval from the customer’s internal security team, and then conduct testing.
+- [x] Request and wait for approval from the customer's internal security team, and then conduct testing.
 - [ ] Notify AWS support, and then conduct testing immediately.
 - [ ] Request and wait for approval from AWS support, and then conduct testing.
 
@@ -4392,7 +4392,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The AWS Cloud’s multiple Regions are an example of:
+### The AWS Cloud's multiple Regions are an example of:
 
 - [ ] Agility.
 - [x] Global infrastructure.
@@ -4538,7 +4538,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which AWS service identifies security groups that allow unrestricted access to a user’s AWS resources?
+### Which AWS service identifies security groups that allow unrestricted access to a user's AWS resources?
 
 - [x] AWS Trusted Advisor.
 - [ ] Amazon Inspector.
@@ -4584,7 +4584,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which AWS feature will reduce the customer’s total cost of ownership (TCO)?
+### Which AWS feature will reduce the customer's total cost of ownership (TCO)?
 
 - [x] Shared responsibility security model.
 - [ ] Single tenancy.
@@ -4621,7 +4621,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Under the AWS shared responsibility model, which of the following activities are the customer’s responsibility? (Select TWO)
+### Under the AWS shared responsibility model, which of the following activities are the customer's responsibility? (Select TWO)
 
 - [ ] Patching operating system components for Amazon Relational Database Server (Amazon RDS).
 - [x] Encrypting data on the client-side.
@@ -4649,9 +4649,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### How do customers benefit from Amazon’s massive economies of scale?
+### How do customers benefit from Amazon's massive economies of scale?
 
-- [ ] Periodic price reductions as the result of Amazon’s operational efficiencies.
+- [ ] Periodic price reductions as the result of Amazon's operational efficiencies.
 - [ ] New Amazon EC2 instance types providing the latest hardware.
 - [x] The ability to scale up and down when needed.
 - [ ] Increased reliability in the underlying hardware of Amazon EC2 instances.
@@ -4938,7 +4938,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following is the customer’s responsibility under the AWS shared responsibility model?
+### Which of the following is the customer's responsibility under the AWS shared responsibility model?
 
 - [ ] Patching underlying infrastructure
 - [ ] Physical security
@@ -5138,7 +5138,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] It supplies an online IT ticketing platform for resource requests.
 - [ ] It supports automatic code validation services.
 - [x] It provides the ability to programmatically provision existing resources.
-- [ ] It automates the resource request process from a company’s IT vendor list.
+- [ ] It automates the resource request process from a company's IT vendor list.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -5307,7 +5307,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A company’s web application currently has light dependencies on underlying components so when one component fails the entire web application fails. Applying which AWS Cloud design principle will address the current design issue?
+### A company's web application currently has light dependencies on underlying components so when one component fails the entire web application fails. Applying which AWS Cloud design principle will address the current design issue?
 
 - [ ] Implementing elasticity enabling the application to scale up or scale down as demand changes.
 - [ ] Enabling several EC2 instances to run in parallel to achieve better performance.
@@ -5371,7 +5371,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following will enhance the security of access to the AWS Management Console’? (Select TWO)
+### Which of the following will enhance the security of access to the AWS Management Console'? (Select TWO)
 
 - [ ] AWS Secrets Manager.
 - [ ] AWS Certificate Manager.
@@ -5406,7 +5406,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Service limits increasing by default in all accounts.
 - [ ] A fixed discount on the monthly bill.
 - [x] Potential volume discounts, as usage in all accounts is combined.
-- [ ] The automatic extension of the master account’s AWS support plan to all accounts.
+- [ ] The automatic extension of the master account's AWS support plan to all accounts.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -5713,7 +5713,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which AWS service provides a customized view of the health of specific AWS services that power a customer’s workloads running on AWS?
+### Which AWS service provides a customized view of the health of specific AWS services that power a customer's workloads running on AWS?
 
 - [ ] AWS Service Health Dashboard.
 - [ ] AWS X-Ray.
@@ -5725,7 +5725,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### One of the advantages to moving infrastructure from an on-premises data center to the AWS Cloud is:
 
 - [ ] It allows the business to eliminate IT bills.
-- [ ] It allows the business to put a server in each customer’s data center.
+- [ ] It allows the business to put a server in each customer's data center.
 - [x] It allows the business to focus on business activities.
 - [ ] It allows the business to leave servers unpatched.
 
@@ -5762,22 +5762,22 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] A company wants to move its main website to AWS from an on-premises web server.
 - [ ] A company has a number of application services whose Service Level Agreement (SLA) requires 99.999% uptime.
-- [ ] A company’s heavily used legacy database is currently running on-premises.
+- [ ] A company's heavily used legacy database is currently running on-premises.
 - [x] A company has a number of infrequent, interruptible jobs that are currently using On-Demand Instances.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A customer is deploying a new application and needs to choose an AWS Region. Which of the following factors could influence the customer’s decision? (Select TWO)
+### A customer is deploying a new application and needs to choose an AWS Region. Which of the following factors could influence the customer's decision? (Select TWO)
 
 - [x] Reduced latency to users.
-- [ ] The application’s presentation in the local language.
+- [ ] The application's presentation in the local language.
 - [x] Data sovereignty compliance.
 - [ ] Cooling costs in hotter climates.
-- [ ] Proximity to the customer’s office for on-site visits.
+- [ ] Proximity to the customer's office for on-site visits.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which AWS service provides alerts when an AWS event may impact a company’s AWS resources?
+### Which AWS service provides alerts when an AWS event may impact a company's AWS resources?
 
 - [x] AWS Personal Health Dashboard.
 - [ ] AWS Service Health Dashboard.
@@ -5795,7 +5795,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which service’s PRIMARY purpose is software version control?
+### Which service's PRIMARY purpose is software version control?
 
 - [ ] Amazon CodeStar.
 - [ ] AWS Command Line Interface (AWS CLI).
@@ -5888,7 +5888,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which feature of the AWS Cloud will support an international company’s requirement for low latency to all of its customers?
+### Which feature of the AWS Cloud will support an international company's requirement for low latency to all of its customers?
 
 - [ ] Fault tolerance.
 - [x] Global reach.
@@ -5976,8 +5976,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Use the AWS Service Catalog to identify a list of on-premises resources that can be migrated
 - [x] Build a VPN connection between an on-premises device and a virtual private gateway in the new VPC
 - [ ] Use Amazon Athena to query data from the on-premises database servers
-- [ ] Connect the company’s on-premises data center to AWS using AWS Direct Connect
-- [ ] Leverage Amazon CloudFront to restrict access to static web content provided through the company’s on-premises web servers
+- [ ] Connect the company's on-premises data center to AWS using AWS Direct Connect
+- [ ] Leverage Amazon CloudFront to restrict access to static web content provided through the company's on-premises web servers
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -6069,7 +6069,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] They automatically add more instances across multiple AWS Regions based on global demand of the application.
 - [x] They automatically add or replace instances across multiple Availability Zones when the
 application needs it.
-- [ ] They enable the application’s stalk: content to reside closer to end users.
+- [ ] They enable the application's stalk: content to reside closer to end users.
 - [ ] They are able to distribute incoming requests across a tier of web server instances.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -6110,7 +6110,7 @@ application needs it.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Under the shared responsibility model which of the following areas are the customer’s responsibility? (Select TWO)
+### Under the shared responsibility model which of the following areas are the customer's responsibility? (Select TWO)
 
 - [ ] Firmware upgrades of network infrastructure.
 - [x] Patching of operating systems.
@@ -6120,7 +6120,7 @@ application needs it.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A company is looking for a scalable data warehouse solution. Which of the following AWS solutions would meet the company’s needs?
+### A company is looking for a scalable data warehouse solution. Which of the following AWS solutions would meet the company's needs?
 
 - [ ] Amazon Simple Storage Service (Amazon S3).
 - [ ] Amazon DynamoDB.
@@ -6192,7 +6192,7 @@ application needs it.
 - [ ] Service limits increasing by default in all accounts.
 - [ ] A fixed discount on the monthly bill.
 - [x] Potential volume discounts, as usage in all accounts is combined.
-- [ ] The automatic extension of the master account’s AWS support plan to all accounts.
+- [ ] The automatic extension of the master account's AWS support plan to all accounts.
 
 **[⬆ Back to Top](#table-of-contents)**
 
