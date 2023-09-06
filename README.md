@@ -2420,9 +2420,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Both AWS and traditional IT distributors provide a wide range of virtual servers to meet their customers’ requirements. What is the name of these virtual servers in AWS?
 
 - [ ] Amazon EBS Snapshots.
-- [x] Amazon VPC.
+- [ ] Amazon VPC.
 - [ ] AWS Managed Servers.
-- [ ] Amazon EC2 Instances.
+- [x] Amazon EC2 Instances.
 
 **[⬆ Back to Top](#table-of-contents)**
 
