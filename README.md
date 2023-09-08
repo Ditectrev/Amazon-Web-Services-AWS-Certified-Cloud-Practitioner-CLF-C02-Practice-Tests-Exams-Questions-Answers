@@ -35,8 +35,10 @@
    - Availability Zones;
    - AWS Budgets;
    - AWS CloudFormation;
+   - AWS CloudTrail;
    - AWS Command Line Interface (AWS CLI);
    - AWS Cost Explorer;
+   - AWS Direct Connect;
    - AWS Health Dashboard;
    - AWS Identity and Access Management (AWS IAM);
    - AWS Key Management Service (AWS KMS);
