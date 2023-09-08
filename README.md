@@ -34,6 +34,7 @@
    - Authentication & Authorization;
    - Availability Zones;
    - AWS Budgets;
+   - AWS CloudFormation;
    - AWS Cost Explorer;
    - AWS Health Dashboard;
    - AWS Identity and Access Management (AWS IAM);
