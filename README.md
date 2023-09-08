@@ -35,12 +35,15 @@
    - Availability Zones;
    - AWS Budgets;
    - AWS CloudFormation;
+   - AWS Command Line Interface (AWS CLI);
    - AWS Cost Explorer;
    - AWS Health Dashboard;
    - AWS Identity and Access Management (AWS IAM);
+   - AWS Key Management Service (AWS KMS);
    - AWS Lambda;
    - AWS Pricing Calculator;
    - AWS Trusted Advisor;
+   - AWS Web Application Firewall (WAF);
    - Capital Expenditure (CapEx) & Operational Expenditure (OpEx);
    - Cloud Concepts;
    - Compliancy, Governance, Identity & Privacy;
