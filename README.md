@@ -641,7 +641,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 510   | [Which is the MINIMUM AWS Support plan that allows for one-hour target response time for support cases?](#which-is-the-minimum-aws-support-plan-that-allows-for-one-hour-target-response-time-for-support-cases) |
 | 511   | [What is the lowest-cost, durable storage option for retaining database backups for immediate retrieval?](#what-is-the-lowest-cost-durable-storage-option-for-retaining-database-backups-for-immediate-retrieval) |
 | 512   | [What AWS team assists customers with accelerating cloud adoption through paid engagements in any of several specialty practice areas?](#what-aws-team-assists-customers-with-accelerating-cloud-adoption-through-paid-engagements-in-any-of-several-specialty-practice-areas) |
-| 513   | [A company needs 24/7 phone email and chat access with a response time of less than 1 hour if a production system has a service interruption Which AWS Support plan meets these requirements at the LOWEST cost?](#a-company-needs-247-phone-email-and-chat-access-with-a-response-time-of-less-than-1-hour-if-a-production-system-has-a-service-interruption-which-aws-support-plan-meets-these-requirements-at-the-lowest-cost) |
+| 513   | [A company needs 24/7 phone email and chat access with a response time of less than 1 hour if a production system has a service interruption. Which AWS Support plan meets these requirements at the LOWEST cost?](#a-company-needs-247-phone-email-and-chat-access-with-a-response-time-of-less-than-1-hour-if-a-production-system-has-a-service-interruption-which-aws-support-plan-meets-these-requirements-at-the-lowest-cost) |
 | 514   | [If a customer needs to audit the change management of AWS resources, which of the following AWS services should the customer use?](#if-a-customer-needs-to-audit-the-change-management-of-aws-resources-which-of-the-following-aws-services-should-the-customer-use) |
 | 515   | [How does AWS Trusted Advisor provide guidance to users of the AWS Cloud? (Select TWO)](#how-does-aws-trusted-advisor-provide-guidance-to-users-of-the-aws-cloud-select-two) |
 | 516   | [Which AWS managed service is used to host databases?](#which-aws-managed-service-is-used-to-host-databases) |
@@ -5471,12 +5471,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A company needs 24/7 phone email and chat access with a response time of less than 1 hour if a production system has a service interruption Which AWS Support plan meets these requirements at the LOWEST cost?
+### A company needs 24/7 phone email and chat access with a response time of less than 1 hour if a production system has a service interruption. Which AWS Support plan meets these requirements at the LOWEST cost?
 
 - [ ] Basic.
 - [ ] Developer.
-- [ ] Business.
-- [x] Enterprise.
+- [x] Business.
+- [ ] Enterprise.
 
 **[⬆ Back to Top](#table-of-contents)**
 
