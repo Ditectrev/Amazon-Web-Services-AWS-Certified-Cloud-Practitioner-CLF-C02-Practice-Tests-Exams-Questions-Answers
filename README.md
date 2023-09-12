@@ -29,6 +29,7 @@
    - Amazon Elastic Compute Cloud (Amazon EC2);
    - Amazon Elastic Map Reduce (Amazon EMR);
    - Amazon Inspector;
+   - Amazon Redshift;
    - Amazon Relational Database Service (Amazon RDS);
    - Amazon Simple Storage Service (Amazon S3);
    - Authentication & Authorization;
