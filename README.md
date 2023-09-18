@@ -6150,8 +6150,8 @@ application needs it.
 
 - [ ] Fixed rate monthly cost.
 - [x] No need to guess capacity requirements.
-- [ ] Increased speed to market.
-- [x] Increased upfront capital expenditure.
+- [x] Increased speed to market.
+- [ ] Increased upfront capital expenditure.
 - [ ] Physical access to cloud data centers.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -6240,4 +6240,3 @@ application needs it.
 - [x] A vHBA can be a source for either an Ethernet or Fibre Channel monitoring session, but not both.
 
 **[⬆ Back to Top](#table-of-contents)**
-
