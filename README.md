@@ -3846,8 +3846,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] It's not possible to meet regulatory compliance requirements in the Cloud.
 - [ ] AWS applies the most common Cloud security standards, and is responsible for complying with customers' applicable laws and regulations.
-- [x] AWS has many common assurance certifications such as ISO 9001 and HIPAA.
-- [ ] Many AWS services are assessed regularly to comply with local laws and regulations.
+- [ ] AWS has many common assurance certifications such as ISO 9001 and HIPAA.
+- [x] Many AWS services are assessed regularly to comply with local laws and regulations.
 
 **[⬆ Back to Top](#table-of-contents)**
 
