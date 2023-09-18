@@ -697,8 +697,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 565   | [Where should a company go to search software listings from independent software vendors to find, test, buy and deploy software that runs on AWS?](#where-should-a-company-go-to-search-software-listings-from-independent-software-vendors-to-find-test-buy-and-deploy-software-that-runs-on-aws) |
 | 566   | [Which of the following is a component of the AWS Global Infrastructure?](#which-of-the-following-is-a-component-of-the-aws-global-infrastructure) |
 | 567   | [Which Amazon EC2 pricing model adjusts based on supply and demand of EC2 instances?](#which-amazon-ec2-pricing-model-adjusts-based-on-supply-and-demand-of-ec2-instances) |
-| 568   | [A company wants to migrate its applications to a VPC on AWS These applications will need to access on-premises resources. What combination of actions will enable the company to accomplish this goals? (Select TWO)](#a-company-wants-to-migrate-its-applications-to-a-vpc-on-aws-these-applications-will-need-to-access-on-premises-resources-what-combination-of-actions-will-enable-the-company-to-accomplish-this-goals-select-two) |
-| 569   | [A Cloud Practitioner must determine if any security groups in an AW account have been provisioned to allow unrestricted access for specific ports What is the SIMPLEST way to do this?](#a-cloud-practitioner-must-determine-if-any-security-groups-in-an-aw-account-have-been-provisioned-to-allow-unrestricted-access-for-specific-ports-what-is-the-simplest-way-to-do-this) |
+| 568   | [A company wants to migrate its applications to a VPC on AWS. These applications will need to access on-premises resources. What combination of actions will enable the company to accomplish this goals? (Select TWO)](#a-company-wants-to-migrate-its-applications-to-a-vpc-on-aws-these-applications-will-need-to-access-on-premises-resources-what-combination-of-actions-will-enable-the-company-to-accomplish-this-goals-select-two) |
+| 569   | [A Cloud Practitioner must determine if any security groups in an AWS account have been provisioned to allow unrestricted access for specific ports. What is the SIMPLEST way to do this?](#a-cloud-practitioner-must-determine-if-any-security-groups-in-an-aws-account-have-been-provisioned-to-allow-unrestricted-access-for-specific-ports-what-is-the-simplest-way-to-do-this) |
 | 570   | [Which of the following security-related services does AWS offer? (Select TWO)](#which-of-the-following-security-related-services-does-aws-offer-select-two) |
 | 571   | [Which of the following services have Distributed Denial of Service (DDoS) mitigation features? (Select TWO)](#which-of-the-following-services-have-distributed-denial-of-service-ddos-mitigation-features-select-two) |
 | 572   | [Which of the following AWS features enables a user to launch a pre-configured Amazon Elastic Compute Cloud (Amazon EC2) instance?](#which-of-the-following-aws-features-enables-a-user-to-launch-a-pre-configured-amazon-elastic-compute-cloud-amazon-ec2-instance) |
@@ -5979,17 +5979,17 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A company wants to migrate its applications to a VPC on AWS These applications will need to access on-premises resources. What combination of actions will enable the company to accomplish this goals? (Select TWO)
+### A company wants to migrate its applications to a VPC on AWS. These applications will need to access on-premises resources. What combination of actions will enable the company to accomplish this goals? (Select TWO)
 
-- [x] Use the AWS Service Catalog to identify a list of on-premises resources that can be migrated
-- [x] Build a VPN connection between an on-premises device and a virtual private gateway in the new VPC
-- [ ] Use Amazon Athena to query data from the on-premises database servers
-- [ ] Connect the company's on-premises data center to AWS using AWS Direct Connect
-- [ ] Leverage Amazon CloudFront to restrict access to static web content provided through the company's on-premises web servers
+- [ ] Use the AWS Service Catalog to identify a list of on-premises resources that can be migrated.
+- [x] Build a VPN connection between an on-premises device and a virtual private gateway in the new VPC.
+- [ ] Use Amazon Athena to query data from the on-premises database servers.
+- [x] Connect the company's on-premises data center to AWS using AWS Direct Connect.
+- [ ] Leverage Amazon CloudFront to restrict access to static web content provided through the company's on-premises web servers.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A Cloud Practitioner must determine if any security groups in an AW account have been provisioned to allow unrestricted access for specific ports What is the SIMPLEST way to do this?
+### A Cloud Practitioner must determine if any security groups in an AWS account have been provisioned to allow unrestricted access for specific ports. What is the SIMPLEST way to do this?
 
 - [ ] Review the inbound rules for each security group in the Amazon EC2 management console to check for port 0.0.0.0/0.
 - [x] Run AWS Trusted Advisor and review the findings.
