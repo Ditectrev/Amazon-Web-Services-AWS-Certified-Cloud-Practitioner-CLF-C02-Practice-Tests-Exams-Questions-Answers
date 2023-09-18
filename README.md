@@ -725,6 +725,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 593   | [Which type of mirroring does SPAN technology perform?](#which-type-of-mirroring-does-span-technology-perform)  |
 | 594   | [Your customer wants to grant restricted proxy rights to their HR Department to act on behalf of employees belonging to their legal entity. How can you perform this requirement? There are 2 correct answers to this question.](#your-customer-wants-to-grant-restricted-proxy-rights-to-their-hr-department-to-act-on-behalf-of-employees-belonging-to-their-legal-entity-how-can-you-perform-this-requirement-there-are-2-correct-answers-to-this-question)  |
 | 595   | [Which two statements about configuring a traffic monitoring session are true?  (Choose two)](#which-two-statements-about-configuring-a-traffic-monitoring-session-are-true-choose-two)  |
+| 596   | [What are the advantages of the AWS Cloud (Select TWO)](#what-are-the-advantages-of-the-aws-cloud-select-two-2)
 
 ### AWS allows users to manage their resources using a web based user interface. What is the name of this interface?
 
@@ -6238,5 +6239,15 @@ application needs it.
 - [ ] A newly created monitoring session is enabled by default.
 - [ ] A destination port can also be a source port within the same session.
 - [x] A vHBA can be a source for either an Ethernet or Fibre Channel monitoring session, but not both.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### What are the advantages of the AWS Cloud (Select TWO)
+
+- [ ] AWS management of user-owned infrastructure.
+- [x] Ability to quickly change required capacity.
+- [x] High economies of scale.
+- [ ] Increased deployment time to market.
+- [ ] Increased fixed expenses.
 
 **[⬆ Back to Top](#table-of-contents)**
