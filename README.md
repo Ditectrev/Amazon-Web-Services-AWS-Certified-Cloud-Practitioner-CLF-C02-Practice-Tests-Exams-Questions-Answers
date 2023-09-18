@@ -63,7 +63,7 @@
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
 5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
 6. This course is **not** a Amazon Web Services Certified (AWS Certified) Cloud Practitioner (CLF-C01) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
-7. 596 **unique** questions.
+7. 597 **unique** questions.
 
 ## ☝️ Course Updates
 
@@ -726,6 +726,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 594   | [Your customer wants to grant restricted proxy rights to their HR Department to act on behalf of employees belonging to their legal entity. How can you perform this requirement? There are 2 correct answers to this question.](#your-customer-wants-to-grant-restricted-proxy-rights-to-their-hr-department-to-act-on-behalf-of-employees-belonging-to-their-legal-entity-how-can-you-perform-this-requirement-there-are-2-correct-answers-to-this-question)  |
 | 595   | [Which two statements about configuring a traffic monitoring session are true?  (Choose two)](#which-two-statements-about-configuring-a-traffic-monitoring-session-are-true-choose-two)  |
 | 596   | [What are the advantages of the AWS Cloud (Select TWO)](#what-are-the-advantages-of-the-aws-cloud-select-two-1)
+| 597   | [A company wants to migrate its applications from its on-premises data center to a VPC in the AWS Cloud. These applications will need to access on-premises resources. Which actions will meet these requirements? (Choose TWO)](#a-company-wants-to-migrate-its-applications-from-its-on-premises-data-center-to-a-vpc-in-the-aws-cloud-these-applications-will-need-to-access-on-premises-resources-which-actions-will-meet-these-requirements-choose-two)
 
 ### AWS allows users to manage their resources using a web based user interface. What is the name of this interface?
 
@@ -6249,5 +6250,15 @@ application needs it.
 - [x] High economies of scale.
 - [ ] Increased deployment time to market.
 - [ ] Increased fixed expenses.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### A company wants to migrate its applications from its on-premises data center to a VPC in the AWS Cloud. These applications will need to access on-premises resources. Which actions will meet these requirements? (Choose TWO)
+
+- [ ] Use AWS Service Catalog to identify a list of on-premises resources that can be migrated.
+- [x] Create a VPN connection between an on-premises device and a virtual private gateway in the VPC.
+- [ ] Use an Amazon CloudFront distribution and configure it to accelerate content delivery close to the on-premises resources.
+- [x] Set up an AWS Direct Connect connection between the on-premises data center and AWS.
+- [ ] Use Amazon CloudFront to restrict access to static web content provided through the on-premises web servers.
 
 **[⬆ Back to Top](#table-of-contents)**
