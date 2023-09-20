@@ -6,7 +6,7 @@
 
 ❣️ Please support us by purchasing this course on Udemy in an interactive version with the [discounted link](https://www.udemy.com/course/aws-cloud-practitioner-clf-c01-practice-tests-exams/?referralCode=5FA00571456CA3B6E16D). If you're working for a company, you could most probably easily claim this expense during preparation for your exam. For us, it's to be, or not to be, in the game.
 
-🛍️ Alternatively, you can buy the PDF with those questions on [Etsy](https://www.etsy.com/listing/1363743302/aws-cloud-practitioner-clf-c01-practice).
+🛍️ Alternatively, you can buy the PDF with those questions on [Etsy](https://ditectrev.etsy.com/listing/1363743302).
 
 ## ✨ This course is unlike any Amazon Web Services Certified (AWS Certified) Cloud Practitioner (CLF-C01) course you will find online.
 
