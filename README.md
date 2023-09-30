@@ -715,7 +715,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 583   | [Under the shared responsibility model which of the following areas are the customer's responsibility? (Select TWO)](#under-the-shared-responsibility-model-which-of-the-following-areas-are-the-customers-responsibility-select-two) |
 | 584   | [A company is looking for a scalable data warehouse solution. Which of the following AWS solutions would meet the company's needs?](#a-company-is-looking-for-a-scalable-data-warehouse-solution-which-of-the-following-aws-solutions-would-meet-the-companys-needs) |
 | 585   | [Much AWS services provide a way to extend an on-premises architecture to the AWS Cloud? (Select TWO)](#much-aws-services-provide-a-way-to-extend-an-on-premises-architecture-to-the-aws-cloud-select-two) |
-| 586   | [What are the advantages of the AWS Cloud (Select TWO)](#what-are-the-advantages-of-the-aws-cloud-select-two) |
+| 586   | [What are the advantages of the AWS Cloud? (Select TWO)](#what-are-the-advantages-of-the-aws-cloud-select-two) |
 | 587   | [How can the AWS Cloud increase user workforce productivity after migration from an on-premises data center?](#how-can-the-aws-cloud-increase-user-workforce-productivity-after-migration-from-an-on-premises-data-center) |
 | 588   | [Which of the following services could be used to deploy an application to servers running on-premises? (Select TWO)](#which-of-the-following-services-could-be-used-to-deploy-an-application-to-servers-running-on-premises-select-two) |
 | 589   | [What is an example of agility in the AWS Cloud?](#what-is-an-example-of-agility-in-the-aws-cloud) |
@@ -725,7 +725,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 593   | [Which type of mirroring does SPAN technology perform?](#which-type-of-mirroring-does-span-technology-perform)  |
 | 594   | [Your customer wants to grant restricted proxy rights to their HR Department to act on behalf of employees belonging to their legal entity. How can you perform this requirement? There are 2 correct answers to this question.](#your-customer-wants-to-grant-restricted-proxy-rights-to-their-hr-department-to-act-on-behalf-of-employees-belonging-to-their-legal-entity-how-can-you-perform-this-requirement-there-are-2-correct-answers-to-this-question)  |
 | 595   | [Which two statements about configuring a traffic monitoring session are true?  (Choose two)](#which-two-statements-about-configuring-a-traffic-monitoring-session-are-true-choose-two)  |
-| 596   | [What are the advantages of the AWS Cloud (Select TWO)](#what-are-the-advantages-of-the-aws-cloud-select-two-1)
+| 596   | [What are the advantages of the AWS Cloud? (Select TWO)](#what-are-the-advantages-of-the-aws-cloud-select-two-1)
 | 597   | [A company wants to migrate its applications from its on-premises data center to a VPC in the AWS Cloud. These applications will need to access on-premises resources. Which actions will meet these requirements? (Choose TWO)](#a-company-wants-to-migrate-its-applications-from-its-on-premises-data-center-to-a-vpc-in-the-aws-cloud-these-applications-will-need-to-access-on-premises-resources-which-actions-will-meet-these-requirements-choose-two)
 
 ### AWS allows users to manage their resources using a web based user interface. What is the name of this interface?
