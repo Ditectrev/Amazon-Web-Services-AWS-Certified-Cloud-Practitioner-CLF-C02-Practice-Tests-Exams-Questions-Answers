@@ -46,7 +46,7 @@
    - AWS Lambda;
    - AWS Pricing Calculator;
    - AWS Trusted Advisor;
-   - AWS Web Application Firewall (WAF);
+   - AWS Web Application Firewall (AWS WAF);
    - Capital Expenditure (CapEx) & Operational Expenditure (OpEx);
    - Cloud Concepts;
    - Compliancy, Governance, Identity & Privacy;
