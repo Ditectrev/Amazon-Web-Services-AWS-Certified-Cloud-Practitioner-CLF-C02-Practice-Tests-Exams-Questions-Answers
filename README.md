@@ -6148,7 +6148,7 @@ application needs it.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are the advantages of the AWS Cloud (Select TWO)
+### What are the advantages of the AWS Cloud? (Select TWO)
 
 - [ ] Fixed rate monthly cost.
 - [x] No need to guess capacity requirements.
@@ -6243,7 +6243,7 @@ application needs it.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are the advantages of the AWS Cloud (Select TWO)
+### What are the advantages of the AWS Cloud? (Select TWO)
 
 - [ ] AWS management of user-owned infrastructure.
 - [x] Ability to quickly change required capacity.
