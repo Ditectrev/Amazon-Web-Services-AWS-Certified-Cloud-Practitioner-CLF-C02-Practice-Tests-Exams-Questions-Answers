@@ -67,37 +67,37 @@
 
 ## ☝️ Course Updates
 
-**[v1.0.0](https://github.com/Ditectrev/Amazon-Web-Services-AWS-Certified-Cloud-Practitioner-CLF-C01-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.0.0): December 7, 2022.**
+**[v1.0.0](../../releases/tag/v1.0.0): December 7, 2022.**
 
 - Launch of the course.
 
-**[v1.1.0](https://github.com/Ditectrev/Amazon-Web-Services-AWS-Certified-Cloud-Practitioner-CLF-C01-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.1.0): January 8, 2023.**
+**[v1.1.0](../../releases/tag/v1.1.0): January 8, 2023.**
 
 - Fix several questions with minor improvements.
 
-**[v1.1.1](https://github.com/Ditectrev/Amazon-Web-Services-AWS-Certified-Cloud-Practitioner-CLF-C01-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.1.1): March 7, 2023.**
+**[v1.1.1](../../releases/tag/v1.1.1): March 7, 2023.**
 
 - Fix several typos.
 
-**[v1.1.2](https://github.com/Ditectrev/Amazon-Web-Services-AWS-Certified-Cloud-Practitioner-CLF-C01-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.1.2): June 19, 2023.**
+**[v1.1.2](../../releases/tag/v1.1.2): June 19, 2023.**
 
 - Fix 1 question correct answer.
 
-**[v1.1.3](https://github.com/Ditectrev/Amazon-Web-Services-AWS-Certified-Cloud-Practitioner-CLF-C01-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.1.3): July 13, 2023.**
+**[v1.1.3](../../releases/tag/v1.1.3): July 13, 2023.**
 
 - Fix 1 question correct answer and several typos.
 
-**[v1.1.4](https://github.com/Ditectrev/Amazon-Web-Services-AWS-Certified-Cloud-Practitioner-CLF-C01-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.1.4): August 14, 2023.**
+**[v1.1.4](../../releases/tag/v1.1.4): August 14, 2023.**
 
 - Remove from 2 answers '(Correct)' word.
 
-**[v1.2.0](https://github.com/Ditectrev/Amazon-Web-Services-AWS-Certified-Cloud-Practitioner-CLF-C01-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.2.0): October 2, 2023.**
+**[v1.2.0](../../releases/tag/v1.2.0): October 2, 2023.**
 
 - Add 2 new questions and fix 6 questions with incorrect answers.
 
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
-We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](https://github.com/Ditectrev/AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers#table-of-contents), the wrong answer, please submit an [issue](https://github.com/Ditectrev/AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers/issues). Even better would be a [Pull Request (PR)](https://github.com/Ditectrev/AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers/pulls).
+We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
 
 ## Who this course is for:
 
