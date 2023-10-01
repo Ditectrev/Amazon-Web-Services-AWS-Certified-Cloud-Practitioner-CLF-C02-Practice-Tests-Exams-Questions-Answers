@@ -91,6 +91,10 @@
 
 - Remove from 2 answers '(Correct)' word.
 
+**[v1.2.0](https://github.com/Ditectrev/Amazon-Web-Services-AWS-Certified-Cloud-Practitioner-CLF-C01-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.2.0): October 2, 2023.**
+
+- Add 2 new questions and fix 6 questions with incorrect answers.
+
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
 We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](https://github.com/Ditectrev/AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers#table-of-contents), the wrong answer, please submit an [issue](https://github.com/Ditectrev/AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers/issues). Even better would be a [Pull Request (PR)](https://github.com/Ditectrev/AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers/pulls).
