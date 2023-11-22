@@ -3768,7 +3768,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] There is no need to architect for these capabilities in AWS, as AWS is redundant by default.
 - [ ] Deploy the application in a single Availability Zone.
 - [ ] Deploy the application in multiple Availability Zones in a single AWS region.
-- [x] Deploy the application in muitiple Availability Zones in multiple AWS regions.
+- [x] Deploy the application in multiple Availability Zones in multiple AWS regions.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4206,7 +4206,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] It eliminates the need for change management.
 - [ ] It allows for Cross-Region Replication.
 - [ ] It helps AWS customers reduce Privileged Access to AWS resources.
-- [x] It allows individual application compenents or services to be modified without affecting other components.
+- [x] It allows individual application components or services to be modified without affecting other components.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -4335,7 +4335,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### A financial services company decides to migrate one of its applications to AWS. The application deals with sensitive data, such as credit card information, and must run on a PCI-compliant environment. Which of the following is the company's responsibility when building a PCI-compliant environment in AWS? (Choose TWO)
 
 - [ ] Start the migration process immediately as all AWS services are PCI compliant.
-- [x] Ensure that AWS services are configured properly to meetall PCI DSS standards.
+- [x] Ensure that AWS services are configured properly to meet all PCI DSS standards.
 - [x] Restrict any access to cardholder data and create a policy that addresses information security for all personnel.
 - [ ] Configure the underlying infrastructure of AWS services to meet all PCI DSS requirements.
 - [ ] Ensure that all PCI DSS physical security requirements are met.
@@ -4760,7 +4760,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Increased capital expenditure (capex).
 - [ ] Reduced operational expenditure ( opex ).
 - [x] Deferred payment plans for startups.
-- [ ] Business credit lines for stratups.
+- [ ] Business credit lines for startups.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -5037,7 +5037,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### According to best practices, how should an application be designed to run in the AWS Cloud?
 
-- [ ] Use tighly coupled components.
+- [ ] Use tightly coupled components.
 - [x] Use loosely coupled components.
 - [ ] Use infrequently coupled components.
 - [ ] Use frequently coupled components.
