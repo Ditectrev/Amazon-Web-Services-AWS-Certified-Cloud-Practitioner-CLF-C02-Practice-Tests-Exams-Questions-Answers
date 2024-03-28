@@ -1943,8 +1943,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which of the following will impact the price paid for an EC2 instance? (Choose TWO)
 
 - [x] Instance type.
-- [ ] The Availability Zone where the instance is provisioned.
-- [x] Load balancing.
+- [x] The Availability Zone where the instance is provisioned.
+- [ ] Load balancing.
 - [ ] Number of buckets.
 - [ ] Number of private IPs.
 
