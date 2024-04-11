@@ -101,7 +101,7 @@
 
 **[v1.2.2](../../releases/tag/v1.2.2): April 11, 2024.**
 
-Fix 1 question with a wrong answer.
+- Fix 1 question with a wrong answer.
 
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
