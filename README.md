@@ -4371,8 +4371,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which AWS service delivers data, videos, applications, and APIs to users globally with low latency and high transfer speeds?
 
 - [ ] Amazon Route 53.
-- [x] Amazon Connect.
-- [ ] Amazon CloudFront.
+- [ ] Amazon Connect.
+- [x] Amazon CloudFront.
 - [ ] Amazon EC2.
 
 **[⬆ Back to Top](#table-of-contents)**
