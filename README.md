@@ -103,6 +103,10 @@
 
 - Fix 1 question with a wrong answer.
 
+**[v1.2.3](../../releases/tag/v1.2.3): June 10, 2024.**
+
+- Fix 1 question with a wrong answer.
+
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
 We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
