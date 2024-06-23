@@ -2991,9 +2991,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### According to best practices, which of the below options is best suited for processing a large number of binary files?
 
 - [ ] Vertically scaling EC2 instances.
-- [x] Running RDS instances in parallel.
+- [ ] Running RDS instances in parallel.
 - [ ] Vertically scaling RDS instances.
-- [ ] Running EC2 instances in parallel.
+- [x] Running EC2 instances in parallel.
 
 **[⬆ Back to Top](#table-of-contents)**
 
