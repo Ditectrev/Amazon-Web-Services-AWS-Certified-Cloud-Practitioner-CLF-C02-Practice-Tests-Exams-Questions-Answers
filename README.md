@@ -2769,10 +2769,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which of the following are examples of the customer's responsibility to implement 'security IN the cloud'? (Choose TWO)
 
-- [x] Building a schema for an application.
+- [ ] Building a schema for an application.
 - [ ] Replacing physical hardware.
 - [ ] Creating a new hypervisor.
-- [ ] Patch management of the underlying infrastructure.
+- [x] Patch management of the underlying infrastructure.
 - [x] File system encryption.
 
 **[⬆ Back to Top](#table-of-contents)**
