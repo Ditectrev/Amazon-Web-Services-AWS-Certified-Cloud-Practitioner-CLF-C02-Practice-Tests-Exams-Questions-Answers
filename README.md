@@ -2426,8 +2426,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which of the following is NOT a characteristic of Amazon Elastic Compute Cloud (Amazon EC2)?
 
-- [ ] Amazon EC2 is considered a Serverless Web Service.
-- [x] Amazon EC2 eliminates the need to invest in hardware upfront.
+- [x] Amazon EC2 is considered a Serverless Web Service.
+- [ ] Amazon EC2 eliminates the need to invest in hardware upfront.
 - [ ] Amazon EC2 can launch as many or as few virtual servers as needed.
 - [ ] Amazon EC2 offers scalable computing.
 
