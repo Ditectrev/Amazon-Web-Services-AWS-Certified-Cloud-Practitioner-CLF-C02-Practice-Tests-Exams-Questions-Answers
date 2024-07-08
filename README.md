@@ -2220,8 +2220,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### A company needs to track resource changes using the API call history. Which AWS service can help the company achieve this goal?
 
 - [ ] AWS Config.
-- [x] Amazon CloudWatch.
-- [ ] AWS CloudTrail.
+- [ ] Amazon CloudWatch.
+- [x] AWS CloudTrail.
 - [ ] AWS CloudFormation.
 
 **[⬆ Back to Top](#table-of-contents)**
