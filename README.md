@@ -2331,8 +2331,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### A company is trying to analyze the costs applied to their AWS account recently. Which of the following provides them the most granular data about their AWS costs and usage?
 
 - [ ] Amazon Machine Image.
-- [x] AWS Cost Explorer.
-- [ ] AWS Cost & Usage Report.
+- [ ] AWS Cost Explorer.
+- [x] AWS Cost & Usage Report.
 - [ ] Amazon CloudWatch.
 
 **[⬆ Back to Top](#table-of-contents)**
