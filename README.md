@@ -4556,9 +4556,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which of the following are pillars of the AWS Well-Architected Framework? (Select TWO)
 
 - [ ] Multiple Availability Zones.
-- [ ] Performance efficiency.
+- [x] Performance efficiency.
 - [x] Security.
-- [x] Encryption usage.
+- [ ] Encryption usage.
 - [ ] High availability.
 
 **[⬆ Back to Top](#table-of-contents)**
