@@ -4611,9 +4611,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which AWS feature will reduce the customer's total cost of ownership (TCO)?
 
-- [x] Shared responsibility security model.
+- [ ] Shared responsibility security model.
 - [ ] Single tenancy.
-- [ ] Elastic computing.
+- [x] Elastic computing.
 - [ ] Encryption.
 
 **[⬆ Back to Top](#table-of-contents)**
