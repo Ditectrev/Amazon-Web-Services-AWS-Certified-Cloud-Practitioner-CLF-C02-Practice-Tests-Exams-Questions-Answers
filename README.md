@@ -5457,8 +5457,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Why is it beneficial to use Elastic Load Balancers with applications?
 
 - [ ] They allow for the conversion from Application Load.
-- [x] Balancers to Classic Load Balancers.
-- [ ] They are capable of handling constant changes in network traffic patterns.
+- [ ] Balancers to Classic Load Balancers.
+- [x] They are capable of handling constant changes in network traffic patterns.
 - [ ] They automatically adjust capacity. They are provided at no charge to users.
 
 **[⬆ Back to Top](#table-of-contents)**
