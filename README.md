@@ -5731,9 +5731,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### A company is planning to migrate from on-premises to the AWS Cloud. When AWS tool or service provides detailed reports on estimated cost savings after migration?
 
-- [ ] AWS Total Cost of Ownership (TCO) Calculator.
+- [x] AWS Total Cost of Ownership (TCO) Calculator.
 - [ ] Cost Explorer.
-- [x] AWS Budgets.
+- [ ] AWS Budgets.
 - [ ] AWS Migration Hub.
 
 **[⬆ Back to Top](#table-of-contents)**
