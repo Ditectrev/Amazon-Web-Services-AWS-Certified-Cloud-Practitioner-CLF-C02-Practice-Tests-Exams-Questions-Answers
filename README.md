@@ -5888,8 +5888,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### What is a value proposition of the AWS Cloud?
 
-- [x] AWS is responsible for security in the AWS Cloud.
-- [ ] No long-term contract is required.
+- [ ] AWS is responsible for security in the AWS Cloud.
+- [x] No long-term contract is required.
 - [ ] Provision new servers in days.
 - [ ] AWS manages user applications in the AWS Cloud.
 
