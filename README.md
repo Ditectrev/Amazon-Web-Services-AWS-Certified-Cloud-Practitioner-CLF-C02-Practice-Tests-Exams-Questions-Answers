@@ -5936,8 +5936,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] AWS automatically distributes the data globally for higher durability.
 - [ ] AWS will take care of operating the application.
 - [x] AWS makes it easy to architect for high availability.
-- [ ] AWS can easily accommodate application demand changes.
-- [x] AWS takes care of application security patching.
+- [x] AWS can easily accommodate application demand changes.
+- [ ] AWS takes care of application security patching.
 
 **[⬆ Back to Top](#table-of-contents)**
 
