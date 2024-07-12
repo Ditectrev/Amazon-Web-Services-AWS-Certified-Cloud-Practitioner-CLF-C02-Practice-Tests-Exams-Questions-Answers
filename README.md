@@ -6205,9 +6205,9 @@ application needs it.
 ### Which AWS security service protects applications from distributed denial of service attacks with always-on detection and automatic inline mitigations?
 
 - [ ] Amazon Inspector.
-- [x] AWS Web Application Firewall (AWS WAF).
+- [ ] AWS Web Application Firewall (AWS WAF).
 - [ ] Elastic Load Balancing (ELB).
-- [ ] AWS Shield.
+- [x] AWS Shield.
 
 **[⬆ Back to Top](#table-of-contents)**
 
