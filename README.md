@@ -5659,8 +5659,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] AWS Trusted Advisor.
 - [ ] AWS Support case.
-- [ ] Concierge team.
-- [x] Amazon Connect.
+- [x] Concierge team.
+- [ ] Amazon Connect.
 
 **[⬆ Back to Top](#table-of-contents)**
 
