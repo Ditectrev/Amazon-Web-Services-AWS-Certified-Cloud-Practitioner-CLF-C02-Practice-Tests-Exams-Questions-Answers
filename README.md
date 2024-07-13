@@ -1520,7 +1520,6 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-
 ### Which statement best describes the operational excellence pillar of the AWS Well-Architected Framework?
 
 - [ ] The ability of a system to recover gracefully from failure.
@@ -4823,12 +4822,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-
 ### What costs are included when comparing AWS Total Cost of Ownership (TCO) with on-premises TCO?
 
-- [x] Project management.
+- [ ] Project management.
 - [ ] Antivirus software licensing.
-- [ ] Data center security.
+- [x] Data center security.
 - [ ] Software development.
 
 **[⬆ Back to Top](#table-of-contents)**
