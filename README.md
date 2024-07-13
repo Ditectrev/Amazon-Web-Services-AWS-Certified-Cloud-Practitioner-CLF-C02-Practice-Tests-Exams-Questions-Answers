@@ -5169,9 +5169,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which AWS services can be used to gather information about AWS account activity? (Select TWO)
 
-- [x] Amazon CloudFront.
+- [ ] Amazon CloudFront.
 - [ ] AWS Cloud9.
-- [ ] AWS CloudTrail.
+- [x] AWS CloudTrail.
 - [ ] AWS CloudHSM.
 - [x] Amazon CloudWatch.
 
