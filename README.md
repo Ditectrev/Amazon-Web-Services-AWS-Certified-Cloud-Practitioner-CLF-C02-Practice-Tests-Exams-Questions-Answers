@@ -4983,8 +4983,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which security service automatically recognizes and classifies sensitive data or intellectual property on AWS?
 
-- [x] Amazon GuardDuty.
-- [ ] Amazon Macie.
+- [ ] Amazon GuardDuty.
+- [x] Amazon Macie.
 - [ ] Amazon Inspector.
 - [ ] AWS Shield.
 
