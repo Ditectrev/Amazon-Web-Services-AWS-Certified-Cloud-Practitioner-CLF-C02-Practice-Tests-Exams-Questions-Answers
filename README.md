@@ -4675,9 +4675,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### How do customers benefit from Amazon's massive economies of scale?
 
-- [ ] Periodic price reductions as the result of Amazon's operational efficiencies.
+- [x] Periodic price reductions as the result of Amazon's operational efficiencies.
 - [ ] New Amazon EC2 instance types providing the latest hardware.
-- [x] The ability to scale up and down when needed.
+- [ ] The ability to scale up and down when needed.
 - [ ] Increased reliability in the underlying hardware of Amazon EC2 instances.
 
 **[⬆ Back to Top](#table-of-contents)**
