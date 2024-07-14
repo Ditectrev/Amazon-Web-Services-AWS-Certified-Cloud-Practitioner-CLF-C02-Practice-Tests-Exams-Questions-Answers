@@ -4799,8 +4799,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Resource groups.
 - [x] Availability Zones.
 - [ ] Security groups.
-- [ ] Regions.
-- [x] Amazon Machine Images (AMIS).
+- [x] Regions.
+- [ ] Amazon Machine Images (AMIS).
 
 **[⬆ Back to Top](#table-of-contents)**
 
