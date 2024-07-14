@@ -4732,9 +4732,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [x] AWS WAF.
 - [ ] AWS Trusted Advisor.
-- [x] AWS Direct Connect.
+- [ ] AWS Direct Connect.
 - [ ] AWS Organizations.
-- [ ] Network ACLs.
+- [x] Network ACLs.
 
 **[⬆ Back to Top](#table-of-contents)**
 
