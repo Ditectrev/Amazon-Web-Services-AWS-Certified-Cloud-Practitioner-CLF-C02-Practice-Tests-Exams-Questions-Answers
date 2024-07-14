@@ -572,7 +572,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 424   | [Which AWS service is used to pay AWS bills, and monitor usage and budget costs?](#which-aws-service-is-used-to-pay-aws-bills-and-monitor-usage-and-budget-costs) |
 | 425   | [How do customers benefit from Amazon's massive economies of scale?](#how-do-customers-benefit-from-amazons-massive-economies-of-scale) |
 | 426   | [Which AWS feature allows a company to take advantage of usage tiers for services across multiple member accounts?](#which-aws-feature-allows-a-company-to-take-advantage-of-usage-tiers-for-services-across-multiple-member-accounts) |
-| 427   | [Which AWS services provide a way to extend an on-premises architecture to the aws cloud? (Select TWO)](#which-aws-services-provide-a-way-to-extend-an-on-premises-architecture-to-the-aws-cloud-select-two) |
+| 427   | [Which AWS services provide a way to extend an on-premises architecture to the AWS cloud? (Select TWO)](#which-aws-services-provide-a-way-to-extend-an-on-premises-architecture-to-the-aws-cloud-select-two) |
 | 428   | [Which of the following services will automatically scale with an expected increase in web traffic?](#which-of-the-following-services-will-automatically-scale-with-an-expected-increase-in-web-traffic) |
 | 429   | [Which service provides a virtually unlimited amount of online highly durable object storage?](#which-service-provides-a-virtually-unlimited-amount-of-online-highly-durable-object-storage) |
 | 430   | [Which AWS feature should a customer leverage to achieve high availability of an application?](#which-aws-feature-should-a-customer-leverage-to-achieve-high-availability-of-an-application) |
@@ -4691,13 +4691,13 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which AWS services provide a way to extend an on-premises architecture to the aws cloud? (Select TWO)
+### Which AWS services provide a way to extend an on-premises architecture to the AWS cloud? (Select TWO)
 
 - [ ] Amazon EBS.
-- [x] Amazon Connect.
-- [ ] AWS Storage Gateway AWS CLOUD PRACTITIONER DUMPS.
-- [x] Amazon CloudFront.
-- [ ] AWS Direct Connect.
+- [ ] Amazon Connect.
+- [x] AWS Storage Gateway.
+- [ ] Amazon CloudFront.
+- [x] AWS Direct Connect.
 
 **[⬆ Back to Top](#table-of-contents)**
 
