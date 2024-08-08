@@ -111,6 +111,10 @@
 
 - Fix 23 questions with wrong answers.
 
+**[v1.3.0](../../releases/tag/v1.3.0): August 8, 2024.**
+
+- AI-generated explanations (only paid [Udemy](https://www.udemy.com/course/aws-cloud-practitioner-clf-C01-practice-tests-exams/?referralCode=5FA00571456CA3B6E16D)).
+
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
 We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
