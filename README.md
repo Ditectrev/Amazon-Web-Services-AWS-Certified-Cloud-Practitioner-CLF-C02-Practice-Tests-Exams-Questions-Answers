@@ -559,7 +559,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 403   | [Which of the following AWS Cloud services can be used to run a customer-managed relational database?](#which-of-the-following-aws-cloud-services-can-be-used-to-run-a-customer-managed-relational-database) |
 | 404   | [A user is planning to launch two additional Amazon EC2 instances to increase availability. Which action should the user take?](#a-user-is-planning-to-launch-two-additional-amazon-ec2-instances-to-increase-availability-which-action-should-the-user-take) |
 | 405   | [Which of the following can limit Amazon Storage Service (Amazon S3) bucket access to specific users?](#which-of-the-following-can-limit-amazon-storage-service-amazon-s3-bucket-access-to-specific-users) |
-| 406   | [Which AWS service allows companies to connect an Amazon VPC to an on-premises data center?](#which-aws-service-allows-companies-to-connect-an-amazon-vpc-to-an-on-premises-data-center) |
+| 406   | [Which AWS service allows companies to connect an Amazon VPC to an on-premises data center? (Select TWO)](#which-aws-service-allows-companies-to-connect-an-amazon-vpc-to-an-on-premises-data-center) |
 | 407   | [Which AWS service of feature can be used to monitor CPU usage?](#which-aws-service-of-feature-can-be-used-to-monitor-cpu-usage) |
 | 408   | [Which task is AWS responsible for in the shared responsibility model for security and compliance?](#which-task-is-aws-responsible-for-in-the-shared-responsibility-model-for-security-and-compliance) |
 | 409   | [Which of the following security-related actions are available at no cost?](#which-of-the-following-security-related-actions-are-available-at-no-cost) |
@@ -2191,8 +2191,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### A customer is planning to move billions of images and videos to be stored on Amazon S3. The customer has approximately 60 Petabytes of data to move. Which of the following AWS Services is the best choice to transfer the data to AWS?
 
 - [ ] Snowball.
-- [x] S3 Transfer Acceleration.
-- [ ] Snowmobile.
+- [ ] S3 Transfer Acceleration.
+- [x] Snowmobile.
 - [ ] Amazon VPC.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -4506,12 +4506,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which AWS service allows companies to connect an Amazon VPC to an on-premises data center?
+### Which AWS service allows companies to connect an Amazon VPC to an on-premises data center? (Select Two)
 
 - [x] AWS VPN.
 - [ ] Amazon Redshift.
 - [ ] API Gateway.
-- [ ] Amazon Direct Connect.
+- [x] Amazon Direct Connect.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -6160,7 +6160,7 @@ application needs it.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Much AWS services provide a way to extend an on-premises architecture to the AWS Cloud? (Select TWO)
+### Which AWS services provide a way to extend an on-premises architecture to the AWS Cloud? (Select TWO)
 
 - [ ] Amazon EBS.
 - [x] AWS Direct Connect.
