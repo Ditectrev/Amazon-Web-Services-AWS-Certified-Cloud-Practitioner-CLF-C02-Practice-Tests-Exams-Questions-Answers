@@ -1706,8 +1706,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### A company is migrating its on-premises database to Amazon RDS. What should the company do to ensure Amazon RDS costs are kept to a minimum?
 
-- [ ] Right-size before and after migration.
-- [x] Use a Multi-Region Active-Passive architecture.
+- [x] Right-size before and after migration.
+- [ ] Use a Multi-Region Active-Passive architecture.
 - [ ] Combine On-demand Capacity Reservations with Saving Plans.
 - [ ] Use a Multi-Region Active-Active architecture.
 
