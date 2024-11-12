@@ -5766,8 +5766,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] AWS Senior Support Engineers.
 - [ ] AWS Technical Account Managers.
-- [x] AWS Trusted Advisor.
-- [ ] AWS Discussion Forums.
+- [ ] AWS Trusted Advisor.
+- [x] AWS Discussion Forums.
 
 **[⬆ Back to Top](#table-of-contents)**
 
