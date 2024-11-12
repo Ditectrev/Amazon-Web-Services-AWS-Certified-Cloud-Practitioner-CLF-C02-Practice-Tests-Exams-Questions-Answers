@@ -1651,9 +1651,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### A company has created a solution that helps AWS customers improve their architectures on AWS. Which AWS program may support this company?
 
-- [x] APN Consulting Partners.
+- [ ] APN Consulting Partners.
 - [ ] AWS TAM.
-- [ ] APN Technology Partners.
+- [x] APN Technology Partners.
 - [ ] AWS Professional Services.
 
 **[⬆ Back to Top](#table-of-contents)**
