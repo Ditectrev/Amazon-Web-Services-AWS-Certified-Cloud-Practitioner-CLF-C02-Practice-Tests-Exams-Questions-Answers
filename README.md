@@ -1651,9 +1651,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### A company has created a solution that helps AWS customers improve their architectures on AWS. Which AWS program may support this company?
 
-- [x] APN Consulting Partners.
+- [ ] APN Consulting Partners.
 - [ ] AWS TAM.
-- [ ] APN Technology Partners.
+- [x] APN Technology Partners.
 - [ ] AWS Professional Services.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -2191,8 +2191,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### A customer is planning to move billions of images and videos to be stored on Amazon S3. The customer has approximately 60 Petabytes of data to move. Which of the following AWS Services is the best choice to transfer the data to AWS?
 
 - [ ] Snowball.
-- [x] S3 Transfer Acceleration.
-- [ ] Snowmobile.
+- [ ] S3 Transfer Acceleration.
+- [x] Snowmobile.
 - [ ] Amazon VPC.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -5121,10 +5121,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which AWS tools assist with estimating costs? (Select three)
 
 - [ ] Detailed billing report.
-- [x] Cost allocation tags.
+- [ ] Cost allocation tags.
 - [x] AWS Simple Monthly Calculator.
 - [x] AWS Total Cost of Ownership (TCO) Calculator.
-- [ ] Cost Estimator.
+- [x] Cost Estimator.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -5472,7 +5472,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which is the MINIMUM AWS Support plan that allows for one-hour target response time for support cases?
 
 - [ ] Enterprise.
-- [ ] Business.
+- [x] Business.
 - [ ] Developer
 - [ ] Basic
 
@@ -5766,8 +5766,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] AWS Senior Support Engineers.
 - [ ] AWS Technical Account Managers.
-- [x] AWS Trusted Advisor.
-- [ ] AWS Discussion Forums.
+- [ ] AWS Trusted Advisor.
+- [x] AWS Discussion Forums.
 
 **[⬆ Back to Top](#table-of-contents)**
 
