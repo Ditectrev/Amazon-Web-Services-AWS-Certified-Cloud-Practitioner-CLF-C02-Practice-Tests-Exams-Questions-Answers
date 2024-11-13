@@ -738,7 +738,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 582   | [Which of the following tasks is the responsibility of AWS?](#which-of-the-following-tasks-is-the-responsibility-of-aws) |
 | 583   | [Under the shared responsibility model which of the following areas are the customer's responsibility? (Select TWO)](#under-the-shared-responsibility-model-which-of-the-following-areas-are-the-customers-responsibility-select-two) |
 | 584   | [A company is looking for a scalable data warehouse solution. Which of the following AWS solutions would meet the company's needs?](#a-company-is-looking-for-a-scalable-data-warehouse-solution-which-of-the-following-aws-solutions-would-meet-the-companys-needs) |
-| 585   | [Much AWS services provide a way to extend an on-premises architecture to the AWS Cloud? (Select TWO)](#much-aws-services-provide-a-way-to-extend-an-on-premises-architecture-to-the-aws-cloud-select-two) |
+| 585   | [PLACEHOLDER](#placeholder) |
 | 586   | [What are the advantages of the AWS Cloud? (Select TWO)](#what-are-the-advantages-of-the-aws-cloud-select-two) |
 | 587   | [How can the AWS Cloud increase user workforce productivity after migration from an on-premises data center?](#how-can-the-aws-cloud-increase-user-workforce-productivity-after-migration-from-an-on-premises-data-center) |
 | 588   | [Which of the following services could be used to deploy an application to servers running on-premises? (Select TWO)](#which-of-the-following-services-could-be-used-to-deploy-an-application-to-servers-running-on-premises-select-two) |
@@ -6160,13 +6160,12 @@ application needs it.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Much AWS services provide a way to extend an on-premises architecture to the AWS Cloud? (Select TWO)
+### PLACEHOLDER
 
-- [ ] Amazon EBS.
-- [x] AWS Direct Connect.
-- [ ] Amazon CloudFront.
-- [x] AWS Storage Gateway.
-- [ ] Amazon Connect.
+- [ ] Placeholder.
+- [ ] Placeholder.
+- [ ] Placeholder.
+- [ ] Placeholder.
 
 **[⬆ Back to Top](#table-of-contents)**
 
