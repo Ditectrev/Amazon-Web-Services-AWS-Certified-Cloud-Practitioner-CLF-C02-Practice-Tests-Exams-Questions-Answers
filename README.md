@@ -5146,10 +5146,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which AWS tools assist with estimating costs? (Select three)
 
 - [ ] Detailed billing report.
-- [ ] Cost allocation tags.
+- [x] Cost allocation tags.
 - [x] AWS Simple Monthly Calculator.
 - [x] AWS Total Cost of Ownership (TCO) Calculator.
-- [x] Cost Estimator.
+- [ ] Cost Estimator.
 
 **[⬆ Back to Top](#table-of-contents)**
 
