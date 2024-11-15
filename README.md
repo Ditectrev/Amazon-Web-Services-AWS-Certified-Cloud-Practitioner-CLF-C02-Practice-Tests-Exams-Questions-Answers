@@ -115,6 +115,10 @@
 
 - AI-generated explanations (only paid [Udemy](https://www.udemy.com/course/aws-cloud-practitioner-clf-C01-practice-tests-exams/?referralCode=5FA00571456CA3B6E16D)).
 
+**[v1.4.0](../../releases/tag/v1.4.0): November 15, 2024.**
+
+- Fix 7 questions with wrong answers, delete 2 duplicate, add 2 new questions, and minor formatting improvements.
+
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
 We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
@@ -191,7 +195,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 35   | [How can you view the distribution of AWS spending in one of your AWS accounts?](#how-can-you-view-the-distribution-of-aws-spending-in-one-of-your-aws-accounts) |
 | 36   | [Which of the following must an IAM user provide to interact with AWS services using the AWS Command Line Interface (AWS CLI)?](#which-of-the-following-must-an-iam-user-provide-to-interact-with-aws-services-using-the-aws-command-line-interface-aws-cli) |
 | 37   | [You have AWS Basic support, and you have discovered that some AWS resources are being used maliciously, and those resources could potentially compromise your data. What should you do?](#you-have-aws-basic-support-and-you-have-discovered-that-some-aws-resources-are-being-used-maliciously-and-those-resources-could-potentially-compromise-your-data-what-should-you-do) |
-| 38   | [Select TWO examples of the AWS shared controls.](#select-two-examples-of-the-aws-shared-controls)
+| 38   | [Select TWO examples of the AWS shared controls.](#select-two-examples-of-the-aws-shared-controls) |
 | 39   | [In order to implement best practices when dealing with a 'Single Point of Failure,' you should attempt to build as much automation as possible in both detecting and reacting to failure. Which of the following AWS services would help? (Choose TWO)](#in-order-to-implement-best-practices-when-dealing-with-a-single-point-of-failure-you-should-attempt-to-build-as-much-automation-as-possible-in-both-detecting-and-reacting-to-failure-which-of-the-following-aws-services-would-help-choose-two) |
 | 40   | [A company is planning to host an educational website on AWS. Their video courses will be streamed all around the world. Which of the following AWS services will help achieve high transfer speeds?](#a-company-is-planning-to-host-an-educational-website-on-aws-their-video-courses-will-be-streamed-all-around-the-world-which-of-the-following-aws-services-will-help-achieve-high-transfer-speeds) |
 | 41   | [A developer is planning to build a two-tier web application that has a MySQL database layer. Which of the following AWS database services would provide automated backups for the application?](#a-developer-is-planning-to-build-a-two-tier-web-application-that-has-a-mysql-database-layer-which-of-the-following-aws-database-services-would-provide-automated-backups-for-the-application) |
