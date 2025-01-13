@@ -4016,7 +4016,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Use the AWS Pricing Calculator service to monitor the costs incurred by each department.
 - [ ] Use Amazon Aurora to forecast AWS spending based on usage.
-- [x] Apply cost allocation tags to segment AWS costs by different e projects and departments.
+- [x] Apply cost allocation tags to segment AWS costs by different projects and departments.
 - [ ] Configure AWS Price List API to receive billing updates for each department automatically.
 
 **[⬆ Back to Top](#table-of-contents)**
