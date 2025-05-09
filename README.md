@@ -140,6 +140,10 @@ Yes, we have a little commission from that link. Therefore, by using that link, 
 
 - Fix 7 questions with wrong answers, delete 2 duplicate, add 2 new questions, and minor formatting improvements.
 
+**[v1.4.1](../../releases/tag/v1.4.1): May 9, 2025.**
+
+- Minor formatting improvement for 3 questions.
+
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
 We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
