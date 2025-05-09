@@ -7,7 +7,7 @@
 There are many ways to support us; in exchange, you'll get this material in a proper format:
 
 - ❤️ [shop.ditectrev.com, in EPUB or PDF formats, with answers marked](https://shop.ditectrev.com/product/amazon-web-services-certified-aws-certified-cloud-practitioner-clf-c02-practice-tests-exams-questions-answers),
-- ❤️ [shop.ditectrev.com, in EPUB or PDF formats, without answers marked](https://shop.ditectrev.com/product/amazon-web-services-certified-aws-certified-cloud-practitioner-clf-c01-practice-tests-exams-questions-no-answers),
+- ❤️ [shop.ditectrev.com, in EPUB or PDF formats, without answers marked](https://shop.ditectrev.com/product/amazon-web-services-certified-aws-certified-cloud-practitioner-clf-c02-practice-tests-exams-questions-no-answers),
 - 📖 [Udemy is the only one to have explanations for questions](https://www.udemy.com/course/aws-cloud-practitioner-clf-C01-practice-tests-exams/?referralCode=5FA00571456CA3B6E16D),
 - 📚 [Google Play Books, in PDF format, with answers marked](https://play.google.com/store/books/details?id=OB4UEQAAQBAJ),
 - 📚 [Google Play Books, in PDF format, without answers marked](https://play.google.com/store/books/details?id=Oh4UEQAAQBAJ),
