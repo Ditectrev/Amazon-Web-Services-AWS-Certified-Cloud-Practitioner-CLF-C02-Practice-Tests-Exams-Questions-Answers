@@ -4703,8 +4703,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which AWS service is used to pay AWS bills, and monitor usage and budget costs?
 
-- [ ] AWS Billing and Cost Management.
-- [x] Consolidated billing.
+- [x] AWS Billing and Cost Management.
+- [ ] Consolidated billing.
 - [ ] Amazon CloudWatch.
 - [ ] Amazon GuickStght.
 
@@ -4983,8 +4983,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which of the following is an AWS-managed compute service?
 
 - [ ] Amazon SWF.
-- [x] Amazon EC2.
-- [ ] AWS Lambda.
+- [ ] Amazon EC2.
+- [x] AWS Lambda.
 - [ ] Amazon Aurora.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -5361,8 +5361,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Amazon Relational Database Service (Amazon RDS) offers which of the following benefits over traditional database management?
 
 - [ ] AWS manages the data stored in Amazon RDS tables.
-- [ ] AWS manages the maintenance of the operating system.
-- [x] AWS automatically scales up instance types on demand.
+- [x] AWS manages the maintenance of the operating system.
+- [ ] AWS automatically scales up instance types on demand.
 - [ ] AWS manages the database type.
 
 **[⬆ Back to Top](#table-of-contents)**
