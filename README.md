@@ -3278,9 +3278,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which of the following is a feature of Amazon RDS that performs automatic failover when the primary database fails to respond?
 
 - [ ] RDS Single-AZ.
-- [x] RDS Write Replica.
+- [ ] RDS Write Replica.
 - [ ] RDS Snapshots.
-- [ ] RDS Multi-AZ.
+- [x] RDS Multi-AZ.
 
 **[⬆ Back to Top](#table-of-contents)**
 
