@@ -4279,9 +4279,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### What are the benefits of the AWS Marketplace service? (Choose TWO)
 
 - [ ] Protects customers by performing periodic security checks on listed products.
-- [x] Per-second billing.
+- [ ] Per-second billing.
 - [ ] Provides cheaper options for purchasing Amazon EC2 on-demand instances.
-- [ ] Provides flexible pricing options that suit most customer needs.
+- [x] Provides flexible pricing options that suit most customer needs.
 - [x] Provides software solutions that run on AWS or any other Cloud vendor.
 
 **[⬆ Back to Top](#table-of-contents)**
