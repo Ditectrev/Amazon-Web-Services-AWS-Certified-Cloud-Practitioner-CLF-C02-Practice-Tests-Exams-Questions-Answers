@@ -4420,9 +4420,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which of the following steps should be taken by a customer when conducting penetration testing on AWS?
 
 - [ ] Conduct penetration testing using Amazon Inspector, and then notify AWS support.
-- [x] Request and wait for approval from the customer's internal security team, and then conduct testing.
+- [ ] Request and wait for approval from the customer's internal security team, and then conduct testing.
 - [ ] Notify AWS support, and then conduct testing immediately.
-- [ ] Request and wait for approval from AWS support, and then conduct testing.
+- [x] Request and wait for approval from AWS support, and then conduct testing.
 
 **[⬆ Back to Top](#table-of-contents)**
 
