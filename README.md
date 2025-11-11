@@ -4706,7 +4706,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] AWS Billing and Cost Management.
 - [ ] Consolidated billing.
 - [ ] Amazon CloudWatch.
-- [ ] Amazon GuickStght.
+- [ ] Amazon QuickSight.
 
 **[⬆ Back to Top](#table-of-contents)**
 
