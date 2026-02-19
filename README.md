@@ -2134,7 +2134,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Reserved instances require at least a one-year pricing commitment.
 - [ ] There is no additional charge for using dedicated instances.
 - [x] Reserved instances provide a significant discount compared to on-demand instances.
-- [ ]Reserved instances are best suited for periodic workloads.
+- [ ] Reserved instances are best suited for periodic workloads.
 
 **[⬆ Back to Top](#table-of-contents)**
 
