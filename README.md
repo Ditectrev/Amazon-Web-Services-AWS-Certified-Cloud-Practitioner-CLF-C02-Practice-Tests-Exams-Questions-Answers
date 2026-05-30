@@ -14,7 +14,7 @@ There are many ways to support us; in exchange, you'll get this material in a pr
 - 🛍️ [Etsy, in PDF format, with answers marked](https://ditectrev.etsy.com/listing/1363743302),
 - 🛍️ [Etsy, in PDF format, without answers marked](https://ditectrev.etsy.com/listing/1492654048),
 - 🛒 [eBay, in PDF format, with answers marked](https://ebay.us/m/MQwNu9),
-- 🛒 [eBay, in PDF format, without answers marked](https://ebay.us/m/7cwRTA),
+- 🛒 [eBay, in PDF format, without answers marked](https://ebay.us/m/ae7fhn),
 - 🔄 [Patreon subscription allows you to get access to all of the materials in EPUB and PDF formats. You can also buy separate items on Patreon, but the subscription technically allows us to include all updates for EPUB and PDF formats. Hence, you get EPUB and PDF updates when you subscribe to Patreon](https://patreon.com/Ditectrev?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink).
 
 💰 If you work for a company, you could probably easily claim this expense while preparing for your exam. For us, it's about being in the game or not.
